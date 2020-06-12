@@ -27,9 +27,9 @@ En vue de la constitution d'un outil d'aide à l'évaluation d'une copie de phil
     + [18. [Expl.] Contresens sur le texte](#18expl-contresens-sur-le-texte)
     + [19. [Expl.] Hors sujet / texte-prétexte](#19expl-hors-sujet--texte-prétexte)
   * [M (Méthode) – Introduction](#m-méthode--introduction)
-    + [20. [Diss.] Aucune analyse du sujet](#20diss-aucune-analyse-du-sujet)
-    + [21. [Diss.] Analyse déconnectée du sujet](#21diss-analyse-d-connectée-du-sujet)
-    + [22. [Diss.] Problématique](#22diss-problématique
+    + [20. [Diss.] Aucune analyse du sujet](#20-diss-aucune-analyse-du-sujet)
+    + [21. [Diss.] Analyse déconnectée du sujet](#21diss-analyse-déconnectée-du-sujet)
+    + [22. [Diss.] Problématique](#22diss-problématique)
     + [23. [Diss.] Problématique (+court)](#23diss-problématique-court)
     + [24. [Diss.] Annonce du plan](#24diss-annonce-du-plan)
     + [25. [Expl.] Question directrice](#25expl-question-directrice)
