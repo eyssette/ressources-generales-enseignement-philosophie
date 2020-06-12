@@ -134,9 +134,9 @@ Il est possible d'utiliser le “je” dans une dissertation, mais il faut faire
 >**Idées d'exercice**
 >
 >On pourrait imaginer des exercices de repérage de bons plans / mauvais plans, ou bien d'analyse de l'erreur dans un plan, une partie ou un paragraphe de sous-partie.
->– Remise en ordre des parties dans une partie / remise en ordre des éléments constitutifs d'un paragraphe.
->– Classement de titres de sous-parties qu'il faut remettre dans la bonne partie ;
->– Choix entre plusieurs transitions logiques pour comprendre ce qui a permis de passer d'une partie ou d'une sous-partie à une autre.
+>- Remise en ordre des parties dans une partie / remise en ordre des éléments constitutifs d'un paragraphe.
+>- Classement de titres de sous-parties qu'il faut remettre dans la bonne partie ;
+>- Choix entre plusieurs transitions logiques pour comprendre ce qui a permis de passer d'une partie ou d'une sous-partie à une autre.
 
  
 ### 10. [Diss.] Organisation d'une partie
@@ -172,9 +172,9 @@ Tu ne dois pas passer trop rapidement d'une idée à une autre, sans lien logiqu
 
 >**Idées d'exercice**
 >
->– (Dissertation) Mettre des titres de partie et retrouver les parties qui sont des réponses au sujet
->– Exercice de repérage, parmi plusieurs reformulations d'un sujet, de l'erreur correspondante (hors sujet total / sujet réduit à l'une de ses dimensions seulement / un des termes du sujet est oublié)
->– Repérer dans un paragraphe rédigé où l'extrait fait le lien avec le sujet
+>- (Dissertation) Mettre des titres de partie et retrouver les parties qui sont des réponses au sujet
+>- Exercice de repérage, parmi plusieurs reformulations d'un sujet, de l'erreur correspondante (hors sujet total / sujet réduit à l'une de ses dimensions seulement / un des termes du sujet est oublié)
+>- Repérer dans un paragraphe rédigé où l'extrait fait le lien avec le sujet
 
 ### 15. [Diss.] Lien avec le sujet
 
@@ -211,10 +211,10 @@ On doit vérifier le lien de son propos avec le texte : s’agit-il toujours d�
 
 >**Idées d'exercice**
 >
->– Exercices sur la problématisation en dissertation : repérage de l'erreur dans des extraits d'introduction (R1 mais pas R2 / R1 justifié mais pas R2 / justification pas convaincante / …)
->– Repérage d'erreurs sur la formulation de la thèse dans l'explication de texte : la thèse est réduite à une notion / la thèse est identifiée à une question / la thèse est identifiée à une simple "citation du texte" / la thèse est formulée de manière très confuse ou trop technique
->– Faire distinguer l'idée principale / l'idée secondaire ou la thèse / l'argument
->– Exercice sur le plan d'un texte : extraits rédigés avec plusieurs erreurs possibles (à reconnaître) : pas de numéros de ligne, plan formel sans contenu, plan avec contenu mais sans lien logique entre les parties (juxtaposition).
+>- Exercices sur la problématisation en dissertation : repérage de l'erreur dans des extraits d'introduction (R1 mais pas R2 / R1 justifié mais pas R2 / justification pas convaincante / …)
+>- Repérage d'erreurs sur la formulation de la thèse dans l'explication de texte : la thèse est réduite à une notion / la thèse est identifiée à une question / la thèse est identifiée à une simple "citation du texte" / la thèse est formulée de manière très confuse ou trop technique
+>- Faire distinguer l'idée principale / l'idée secondaire ou la thèse / l'argument
+>- Exercice sur le plan d'un texte : extraits rédigés avec plusieurs erreurs possibles (à reconnaître) : pas de numéros de ligne, plan formel sans contenu, plan avec contenu mais sans lien logique entre les parties (juxtaposition).
 
 ###  20. [Diss.] Aucune analyse du sujet
 
@@ -303,7 +303,7 @@ En fin de partie, il est important de faire une transition, de préférence sous
 
 >**Idées d'exercice**
 >
->– Faire comparer des conclusions, notamment : conclusion radicale nettement formulée vs. conclusion molle, formelle ou relativiste
+>- Faire comparer des conclusions, notamment : conclusion radicale nettement formulée vs. conclusion molle, formelle ou relativiste
 
  
 ### 35. [Diss.] Récapitulatif
@@ -314,11 +314,8 @@ Dans la conclusion, après avoir rappelé le sujet, il faut faire un récapitula
 ### 36. [Diss.] Pas de réponse claire
 
 Il faut arriver à la fin de la conclusion à une réponse claire.
-
 – Il ne faut pas faire d'ouverture. Le but de la conclusion est de conclure, pas d'ouvrir vers une autre question.
-
 – Il ne faut pas refuser de répondre, par exemple en affirmant que “ça dépend de chacun”, ou bien en ne tranchant pas entre deux réponses : “Pour certains…, pour d'autres…”, “nous avons montré que (oui), mais aussi que (non)”.
-
 – Il ne faut pas terminer par une formule vague et indéterminée. Notamment, il faut éviter les fausses réponses qui ne disent rien de précis : “il faut un juste milieu”, “dans certains cas …”.
 
  
@@ -350,13 +347,13 @@ La conclusion est un moment important du devoir qu'il ne faut pas négliger. La 
 
 >**Idées d'exercice**
 >
->– Relier idée classique / référence classique
->– Exercice sur les arguments convaincants / pas convaincants
->– Distinction argument / exemple
->– Distinguer des bons usages et des mauvais usages d'exemples
->– Reconnaissance de ce qui ne va pas dans des exemples de mauvais arguments
->– Exercice pour éviter la paraphrase : repérer dans un texte les éléments qui méritent qu'on s'attarde pour donner un exemple / définir / justifier …
->– Travailler sur des exemples de neutralisation du problème (transformation en une question factuelle, pas conceptuelle, question psychologisée, trivialisation, transformation en liste de cas …)
+>- Relier idée classique / référence classique
+>- Exercice sur les arguments convaincants / pas convaincants
+>- Distinction argument / exemple
+>- Distinguer des bons usages et des mauvais usages d'exemples
+>- Reconnaissance de ce qui ne va pas dans des exemples de mauvais arguments
+>- Exercice pour éviter la paraphrase : repérer dans un texte les éléments qui méritent qu'on s'attarde pour donner un exemple / définir / justifier …
+>- Travailler sur des exemples de neutralisation du problème (transformation en une question factuelle, pas conceptuelle, question psychologisée, trivialisation, transformation en liste de cas …)
 
  
 ### 41. Pas ou peu de connaissances utilisées
@@ -389,11 +386,8 @@ Ton propos doit être le plus clair possible. Il faut éviter d'être confus.
 ### 45. Argumentation pas convaincante
 
 Il faut s'efforcer de parvenir à une argumentation la plus convaincante possible.
-
 – Un bon argument doit être fondé sur des idées dont on a montré qu'il est rationnellement acceptable de les accepter. Il faut donc justifier au maximum les idées qui servent de fondement à son argumentation. Il s'agit de se poser sans cesse la question : « Qu'est-ce qui permet de dire cela ? »
-
 – Un bon argument doit être cohérent, logique. Il faut d'abord vérifier qu'il y a bien un enchaînement logique dans les étapes de son raisonnement, mais il faut aussi se demander si l'argument que l'on défend n'entraîne pas une contradiction ou bien une incohérence : les conséquences de l'argument sont-elles vraiment acceptables ?
-
 – Il faut au maximum examiner les objections possibles aux arguments que tu proposes et essayer d'y répondre. 
 
  
@@ -445,7 +439,6 @@ Il est important dans un devoir de philosophie de donner et d'analyser des exemp
 Ton propos ne doit jamais se réduire à une simple énumération de cas particuliers, d'exemples. 
 – Une argumentation doit être fondée sur des idées générales : des cas particuliers ne prouvent rien et un raisonnement philosophique doit se fonder sur l'analyse des concepts. 
 – Ajouter des cas particuliers les uns à la suite des autres, c'est en rester à une simple juxtaposition : « ça et puis ça et puis ça », alors que ta réflexion doit suivre un fil conducteur et une organisation logique.
-
 – Il faut éviter de donner plusieurs exemples pour la même idée : il faut choisir un exemple (le meilleur). 
  
 ### 55. Exemples peu pertinents
@@ -453,7 +446,7 @@ Ton propos ne doit jamais se réduire à une simple énumération de cas particu
 Il est important de donner et analyser des exemples, mais il faut en vérifier la pertinence. 
 (a) on ne donne un exemple que pour clarifier le sens d'un concept ou d'une thèse. Si l'idée est simple ou déjà parfaitement claire, si on voit immédiatement à quoi elle se rapporte dans la réalité, ce n'est pas la peine de donner un exemple. Il faut donc montrer ce que l'exemple apporte : qu'est-ce qu'il permet de comprendre ? 
 (b) On évite de donner plusieurs exemples pour la même idée. On choisit le meilleur exemple. 
-(c) Certains exemples peuvent être courts, pour servir de simple ancrage et aider à commencer une analyse, mais il est intéressant de prendre le temps d'analyser précisément certains exemples qui ont un contenu plus riche. Dans ce cas, il est préférable d'utiliser des exemples issus de ta culture au sens large (cours de philosophie, cinéma, littérature, sciences, histoire, ....) 
+(c) Certains exemples peuvent être courts, pour servir de simple ancrage et aider à commencer une analyse, mais il est intéressant de prendre le temps d'analyser précisément certains exemples qui ont un contenu plus riche. Dans ce cas, il est préférable d'utiliser des exemples issus de ta culture au sens large (cours de philosophie, cinéma, littérature, sciences, histoire, …) 
 
 
 
