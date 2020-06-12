@@ -2,8 +2,8 @@
 
 En vue de la constitution d'un outil d'aide à l'évaluation d'une copie de philosophie, voici une tentative de constitution d'une liste de conseils possibles que l'on pourrait donner à un·e élève en fonction des erreurs les plus fréquentes. L'idée étant de choisir un maximum de 3-4 conseils pour chaque copie.
 
-- [Les critères formels](#les-crit-res-formels)
-  * [Remarques générales](#remarques-g-n-rales)
+- [Les critères formels](#les-critères-formels)
+  * [Remarques générales](#remarques-générales)
     + [1. Copie trop courte](#1-copie-trop-courte)
     + [2. Plagiat](#2-plagiat)
     + [3. Cours plaqué](#3-cours-plaqu-)
