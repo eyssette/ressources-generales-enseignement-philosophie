@@ -43,9 +43,9 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 
 ## Des chaînes Youtube
 
-*   _Monsieur Phi _[(lien)](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
-*   _META _([lien](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA/videos))
-*   _Crash Course Philosophy _([lien](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR))
+*   _Monsieur Phi_ [(lien)](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
+*   _META_ ([lien](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA/videos))
+*   _Crash Course Philosophy_ ([lien](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR))
 
 ## Une approche par les séries télévisées
 
@@ -67,10 +67,10 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   _Memento_ de Christopher Nolan
 *   _Art_ de Yasmina Reza (pièce de théâtre filmée)
 *   _Le Goût des autres_ d'Agnès Jaoui
-*   _Les Temps Modernes _de Charlie Chaplin
-*   _Violence des échanges en milieu tempéré _de Jean-Marc Moutout
-*   _Ressources Humaines _de Laurent Cantet
-*   _Vénus noire _d'Abdellatif Kechiche
+*   _Les Temps Modernes_ de Charlie Chaplin
+*   _Violence des échanges en milieu tempéré_ de Jean-Marc Moutout
+*   _Ressources Humaines_ de Laurent Cantet
+*   _Vénus noire_ d'Abdellatif Kechiche
 *   _Zoos humains_ d'Eric Deroo et Pascal Blanchard (film documentaire)
-*   _Freud, passions secrètes _de John Huston
+*   _Freud, passions secrètes_ de John Huston
 *   _Bienvenue à Gattaca_ de Andrew Niccol
