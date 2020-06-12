@@ -1,13 +1,10 @@
 
 # Initiation à la philosophie
 
-
-## Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.eyssette@ac-lyon.fr)
-
-
-# Quelques classiques de l'histoire de la philosophie
+Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.eyssette@ac-lyon.fr)
 
 
+## Quelques classiques de l'histoire de la philosophie
 
 *   Platon, _Apologie de Socrate_
 *   Epicure, _Lettre à Ménécée_
@@ -21,64 +18,43 @@
 *   Lévi-Strauss, _Race et histoire_
 
 
-# Un livre de philosophie contemporaine accessible
-
-
+## Un livre de philosophie contemporaine accessible
 
 *   Peter Singer, _Sauver une vie_
 *   Ruwen Ogien, _Le corps et l'argent_
 
 
-# Des livres d'introduction à la philosophie
-
-
+## Des livres d'introduction à la philosophie
 
 *   Normand Baillargeon, _Stéroïdes pour comprendre la philosophie_
 *   Michel Puech, _La philosophie en clair_
 
-
-# Une bande dessinée d'introduction à la philosophie
-
-
+## Une bande dessinée d'introduction à la philosophie
 
 *   Janine, _Balades en Philosophie_
 
-
-# Une revue
-
-
+## Une revue
 
 *   La revue _Philomag_ ([lien](https://www.philomag.com/))
 
-
-# Une émission de radio
-
-
+## Une émission de radio
 
 *   _Les chemins de la philosophie_ ([lien](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie))
 
-
-# Des chaînes Youtube
-
-
+## Des chaînes Youtube
 
 *   _Monsieur Phi _[(lien)](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
 *   _META _([lien](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA/videos))
 *   _Crash Course Philosophy _([lien](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR))
 
-
-# Une approche par les séries télévisées
-
-
+## Une approche par les séries télévisées
 
 *   _Black Mirror_ (⚠ certains épisodes sont très troublants).
     *   Episodes recommandés : S01-E02, S03-E01, S04-E02 (chaque épisode est indépendant des autres).
 *   Thibaut de Saint-Maurice, _Philosophie en séries_
 
 
-# Une approche par la littérature
-
-
+## Une approche par la littérature
 
 *   Didier Eribon, _Retour à Reims_
 *   Aldous Huxley, _Le meilleur des mondes_
@@ -86,9 +62,7 @@
 *   Ira Levin, _Un bonheur insoutenable_
 
 
-# Une approche par le cinéma
-
-
+## Une approche par le cinéma
 
 *   _Memento_ de Christopher Nolan
 *   _Art_ de Yasmina Reza (pièce de théâtre filmée)
