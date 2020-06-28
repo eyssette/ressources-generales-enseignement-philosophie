@@ -60,7 +60,9 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   Aldous Huxley, _Le meilleur des mondes_
 *   George Orwell, _1984_
 *   Ira Levin, _Un bonheur insoutenable_
+*   Ray Bradbury, _Fahrenheit 45_
 *   Oscar Wilde, _Le portrait de Doran Gray_
+*   Daniel Keyes, _Des fleurs pour Algernon_
 *   Victor Dixen, _Cogito_
 
 
