@@ -60,6 +60,8 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   Aldous Huxley, _Le meilleur des mondes_
 *   George Orwell, _1984_
 *   Ira Levin, _Un bonheur insoutenable_
+*   Oscar Wilde, _Le portrait de Doran Gray_
+*   Victor Dixen, _Cogito_
 
 
 ## Une approche par le cinéma
@@ -74,3 +76,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   _Zoos humains_ d'Eric Deroo et Pascal Blanchard (film documentaire)
 *   _Freud, passions secrètes_ de John Huston
 *   _Bienvenue à Gattaca_ de Andrew Niccol
+*   _Douze hommes en colère_, de Sidney Lumet
+*   _Le cercle des poètes disparus_, de Peter Weir 
+*   _Her_, de Spike Jonze
+*   _Matrix_, des sœurs Wachowski
