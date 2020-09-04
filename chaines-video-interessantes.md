@@ -103,7 +103,7 @@ Voici quelques chaînes vidéos intéressantes. Je n'ai évidemment pas vu toute
 
 # Féminisme, antiracisme
 
-- [Game Of Hearth](https://www.youtube.com/channel/UC3A_TG1leX0eQEJD1Ew6Ftw)
+- [Game Of Hearth](https://www.youtube.com/channel/UC3A_TG1leX0eQEJD1Ew6Ftw)
 - [Les couilles sur la table](https://www.youtube.com/channel/UCmsEKbOV5Drze1NdtQcsSNg)
 - [Les Brutes](https://lesbrutes.telequebec.tv/)
 - [Kiffe ta race](https://www.youtube.com/channel/UCPVS8efBdhXGGYs4JW2IJcQ)
