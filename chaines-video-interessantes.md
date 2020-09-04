@@ -44,7 +44,7 @@ Voici quelques chaînes vidéos intéressantes. Je n'ai évidemment pas vu toute
 
 # Autres chaînes en anglais
 
-— [BBC Ideas – The A to Z isms](https://www.youtube.com/watch?v=QoePDl14Eyc&list=PLMrFM-P68Wh7o_LwfB8RxfnMMpPwFI83K)
+- [BBC Ideas – The A to Z isms](https://www.youtube.com/watch?v=QoePDl14Eyc&list=PLMrFM-P68Wh7o_LwfB8RxfnMMpPwFI83K)
 - [BBC Ideas – Philosophy you can apply to your life](https://www.youtube.com/watch?v=RVmuU04-X5E&list=PLMrFM-P68Wh6U7TpimsYYfBDfdL4C7UB1)
 - [The School of Life](https://www.youtube.com/c/theschooloflifetv/playlists)
   - [Political Theory](https://www.youtube.com/watch?v=qtAeINU3FKM&list=PLwxNMb28XmpeuwUhM0OT338_T5XTtJJok)
@@ -103,7 +103,7 @@ Voici quelques chaînes vidéos intéressantes. Je n'ai évidemment pas vu toute
 
 # Féminisme, antiracisme
 
-– [Game Of Hearth](https://www.youtube.com/channel/UC3A_TG1leX0eQEJD1Ew6Ftw)
+- [Game Of Hearth](https://www.youtube.com/channel/UC3A_TG1leX0eQEJD1Ew6Ftw)
 - [Les couilles sur la table](https://www.youtube.com/channel/UCmsEKbOV5Drze1NdtQcsSNg)
 - [Les Brutes](https://lesbrutes.telequebec.tv/)
 - [Kiffe ta race](https://www.youtube.com/channel/UCPVS8efBdhXGGYs4JW2IJcQ)
