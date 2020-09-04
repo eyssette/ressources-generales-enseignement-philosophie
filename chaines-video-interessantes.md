@@ -1,5 +1,3 @@
-Voici quelques chaînes vidéos intéressantes. Je n'ai évidemment pas vu toutes les vidéos de ces différentes chaînes : à vous d'exercer votre esprit critique, et n'hésitez pas à me solliciter pour une question ou une réaction sur le contenu de l'une de ces vidéos.
-
 # Le top 5 en français
 
 1. [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
