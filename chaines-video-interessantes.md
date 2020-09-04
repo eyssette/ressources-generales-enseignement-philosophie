@@ -1,3 +1,5 @@
+Une liste de chaînes vidéo intéressantes.
+
 # Le top 5 en français
 
 1. [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
