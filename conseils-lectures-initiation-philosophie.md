@@ -50,6 +50,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
 *   [La philo des écrans](https://www.youtube.com/channel/UC5oYInmzMnMbsuiBdIEtytg)
 *   [François Jourde : Bac Philo](https://www.youtube.com/watch?v=GhP9DO5AH3I&list=RDCMUCrPDGdPj4pzAGg1uA4n2swA&start_radio=1&t=22)
+*   [Liste de chaînes intéressantes](http://bit.ly/liste-videos)
 
 ## Une approche par les séries télévisées
 
