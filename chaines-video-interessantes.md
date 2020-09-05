@@ -26,7 +26,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Etotsira](https://www.youtube.com/channel/UC6y90KAgpC-q59JeJUgZhFA)
 - [Kant à moi](https://www.youtube.com/channel/UC9osx5rC2K8sH9AuepJW9CQ)
 - [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw) : plutôt philosophie politique
-- [Filosofix : illustration de](https://www.youtube.com/playlist?list=PL1NXgjXDUNJmrBJXa30a-lsNVfSBdxPE4&app=desktop) ; existe également [en anglais](https://www.youtube.com/watch?v=tSUz6Rj5oo4&list=PL1NXgjXDUNJk_51d5AJzCj0Rl7avL5E9W)
+- [Filosofix](https://www.youtube.com/playlist?list=PL1NXgjXDUNJmrBJXa30a-lsNVfSBdxPE4&app=desktop) ; existe également [en anglais](https://www.youtube.com/watch?v=tSUz6Rj5oo4&list=PL1NXgjXDUNJk_51d5AJzCj0Rl7avL5E9W)
 - [micro-philo](https://www.youtube.com/channel/UC4szzzU_Xpb6zeFussmIqWw)
 - [Homo Fabulus](https://www.youtube.com/channel/UC-Dmq5q3-FIBknv1TVIR__Q) : philosophie morale et philosophie de la biologie
 - [La philo en petits morceaux](https://www.youtube.com/channel/UCGXQ71ls-1oXj_YeCAhpFQg)
