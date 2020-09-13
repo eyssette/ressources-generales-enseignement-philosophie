@@ -98,7 +98,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Mr Sam](https://www.youtube.com/c/SamuelBuisseretMrSam/videos)
 - [Defakator](https://www.youtube.com/c/OfficielDEFAKATOR/videos)
 - [Un Monde riant](https://www.youtube.com/c/UnMondeRiant/videos)
-– [Chaîne de Clément Frèze, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
+– [Chaîne de Clément FREZE, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
 
 
 # Sur le langage
