@@ -41,6 +41,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Serial Thinker](https://www.youtube.com/channel/UCyJLX3M9PGhzUncyHsc-rLQ/videos)
 - [Vox Teachers](https://www.youtube.com/channel/UCGGEypu9SsOF--n7qBfYXIw/playlists)
 - [Trucs de philo](https://www.youtube.com/c/Trucsdephilo/videos)
+- [Chaîne de David Lebreton](https://www.youtube.com/user/dlebreton1/videos)
 
 # Autres chaînes en anglais
 
