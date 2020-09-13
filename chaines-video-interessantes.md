@@ -55,7 +55,7 @@ Une liste de chaînes vidéo intéressantes.
 - [BigThink](https://www.youtube.com/c/bigthink/search?query=philosophy)
 - [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
 - [Kane B](https://www.youtube.com/user/kanebaker91/playlists)
-– [Vsauce](https://www.youtube.com/c/vsauce1/playlists)
+- [Vsauce](https://www.youtube.com/c/vsauce1/playlists)
 - [Yale Courses](https://www.youtube.com/user/YaleCourses/search?query=philosophy)
 
 # Mathématiques et sciences de la nature
