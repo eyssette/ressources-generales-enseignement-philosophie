@@ -92,6 +92,15 @@ Une liste de chaînes vidéo intéressantes.
 - [Politeia](https://www.youtube.com/c/PoliteiaUnipop/videos) : sciences politiques
 - [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ/videos) : économie
 
+# Esprit critique, zététique
+- [Hygiène mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale/videos)
+- [La Tronche en biais](https://www.youtube.com/c/TroncheEnBiais-Zetetique/videos)
+- [Mr Sam](https://www.youtube.com/c/SamuelBuisseretMrSam/videos)
+- [Defakator](https://www.youtube.com/c/OfficielDEFAKATOR/videos)
+- [Un Monde riant](https://www.youtube.com/c/UnMondeRiant/videos)
+– [Chaîne de Clément Frèze, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
+
+
 # Sur le langage
 
 - [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
