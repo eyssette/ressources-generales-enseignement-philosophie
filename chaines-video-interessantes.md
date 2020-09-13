@@ -51,12 +51,14 @@ Une liste de chaînes vidéo intéressantes.
   - [Western Philosophy](https://www.youtube.com/watch?v=VDiyQub6vpw&list=PLwxNMb28XmpeypJMHfNbJ4RAFkRtmAN3P)
   - [Eastern Philosophy](https://www.youtube.com/watch?v=5yZ8a_zAEl0&list=PLwxNMb28XmpeUL1vz9Su7OmeghBDgmj7X)
 - [Ted Ed](https://www.youtube.com/teded/search?query=philosophy)
+- [Ted Talks](https://www.youtube.com/user/TEDxTalks/search?query=philosophy)
 - [Above The Noise](https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ)
 - [BigThink](https://www.youtube.com/c/bigthink/search?query=philosophy)
 - [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
 - [Kane B](https://www.youtube.com/user/kanebaker91/playlists)
 - [Vsauce](https://www.youtube.com/c/vsauce1/playlists)
 - [Yale Courses](https://www.youtube.com/user/YaleCourses/search?query=philosophy)
+- [PHILO-notes](https://www.youtube.com/c/PHILOnotes/playlists)
 
 # Mathématiques et sciences de la nature
 
