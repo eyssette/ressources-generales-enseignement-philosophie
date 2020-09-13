@@ -60,6 +60,9 @@ Une liste de chaînes vidéo intéressantes.
 - [Vsauce](https://www.youtube.com/c/vsauce1/playlists)
 - [Yale Courses](https://www.youtube.com/user/YaleCourses/search?query=philosophy)
 - [PHILO-notes](https://www.youtube.com/c/PHILOnotes/playlists)
+- [Chaîne de Sean Carroll](https://www.youtube.com/c/seancarroll/playlists)
+- [Chaîne d'Andrew D. Chapman](https://www.youtube.com/c/AndrewChapmanPhilosophy/playlists)
+- [80.000 hours](https://www.youtube.com/user/eightythousandhours/videos)
 
 # Mathématiques et sciences de la nature
 
