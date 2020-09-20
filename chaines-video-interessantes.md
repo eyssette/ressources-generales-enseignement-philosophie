@@ -72,7 +72,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A)
 - [Mickaël Launay](https://www.youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg)
 - [Passe-Science](https://www.youtube.com/c/PasseScience/playlists)
-– [BestOfScience](https://www.youtube.com/user/Best0fScience/playlists) (en anglais)
+- [BestOfScience](https://www.youtube.com/user/Best0fScience/playlists) (en anglais)
 - [Ideas in Science](https://www.youtube.com/c/IdeasinScience/videos)
 - [J'ménervepas,j'explique](https://www.youtube.com/channel/UC1Ue7TuX3iH4y8-Qrjj-hyg)
 - [Primum Non Nocere](https://www.youtube.com/c/PrimumNonNocereVideo/videos)
