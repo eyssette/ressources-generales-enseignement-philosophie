@@ -1,4 +1,12 @@
 table {
-    width:500px;
+    width:650px;
 }
 
+#recherches p {
+    font-style:normal!important;
+    text-align:justify;
+}
+
+#recherches p:last-child {
+    width:650px;
+}
