@@ -34,10 +34,11 @@ Papa.parse(
   }
 );
 let input = document.querySelector("input");
-input.oninput = handleInput;
 
-function handleInput(e) {
-  search = e.target.value;
+input.addEventListener("keyup", function (event) {
+  if (event.keyCode === 13) {
+    event.preventDefault();
+    search = event.target.value;
   search_items = search.split("+");
   pattern = "";
   search_items.forEach((search_item) => {
@@ -56,4 +57,4 @@ function handleInput(e) {
   table_body = table_body + "</tbody>";
   content = table_start + table_header + table_body + table_end;
   document.getElementById("content").innerHTML = content;
-}
+}};
