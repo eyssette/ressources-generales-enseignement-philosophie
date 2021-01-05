@@ -21,7 +21,6 @@ Papa.parse(
       table_body = "<tbody>";
       rows.forEach((element) => {
         recherche = document.getElementById("recherche_dans_le_sujet").value;
-        console.log(recherche);
         table_body = table_body + "<tr>";
         cell = element[0];
         table_body = table_body + "<td>" + cell + "</td>";
@@ -33,17 +32,25 @@ Papa.parse(
     }
   }
 );
-let input = document.querySelector("input");
+var input = document.getElementById("recherche_dans_le_sujet")
 
 input.addEventListener("keyup", function (event) {
   if (event.keyCode === 13) {
     event.preventDefault();
-    search = event.target.value;
+    var sujets_questions = document.getElementById("sujets_questions");
+  search = event.target.value;
   search_items = search.split("+");
   pattern = "";
   search_items.forEach((search_item) => {
     pattern = pattern + "(?=.*" + search_item + ")";
   });
+  if (sujets_questions.checked){
+    pattern = pattern + '(?=.*\\?$)';
+  }
+  if (sujets_questions_false.checked){
+    pattern = pattern + '(?=.*(?<!\\?)$)';
+  }
+  console.log(pattern);
   regex = new RegExp(pattern,'i');
   table_body = "<tbody>";
   rows.forEach((element) => {
@@ -57,4 +64,6 @@ input.addEventListener("keyup", function (event) {
   table_body = table_body + "</tbody>";
   content = table_start + table_header + table_body + table_end;
   document.getElementById("content").innerHTML = content;
-}};
+  }
+});
+  
