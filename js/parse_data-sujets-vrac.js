@@ -7,7 +7,7 @@ var table_content;
 var table_header;
 var table_body;
 table_start = "<table>";
-table_header = "<thead><tr>";
+table_header = "<thead><tr><th>Intitulé du sujet</th></tr></thead>";
 table_end = "</table>";
 Papa.parse(
   "https://raw.githubusercontent.com/eyssette/ressources-generales-enseignement-philosophie/master/sujets-vrac.tsv",
@@ -17,9 +17,6 @@ Papa.parse(
     delimiter: "    ",
     complete: function (results) {
       rows = results.data;
-      title = rows[0][0].split("\t");
-      table_header = table_header + "<th>" + title + "</th>";
-      table_header = table_header + "</tr></thead>";
       rows = rows.splice(1, rows.length);
       table_body = "<tbody>";
       rows.forEach((element) => {
