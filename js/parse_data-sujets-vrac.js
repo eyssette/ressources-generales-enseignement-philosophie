@@ -43,7 +43,7 @@ function handleInput(e) {
   search_items.forEach((search_item) => {
     pattern = pattern + "(?=.*" + search_item + ")";
   });
-  regex = new RegExp(pattern);
+  regex = new RegExp(pattern,'i');
   table_body = "<tbody>";
   rows.forEach((element) => {
     cell = element[0];
