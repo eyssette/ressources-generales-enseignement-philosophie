@@ -43,6 +43,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Trucs de philo](https://www.youtube.com/c/Trucsdephilo/videos)
 - [Chaîne de David Lebreton](https://www.youtube.com/user/dlebreton1/videos)
 - [Le décodeur philosophique](https://www.youtube.com/channel/UCCLbdM_hSTXNQtZhrnRA0SA)
+- [Philosophie : le Roseau Pensant](https://www.youtube.com/channel/UC_RrGoRp8FMqi4KjdBuwCtQ)
 
 # Autres chaînes en anglais
 
