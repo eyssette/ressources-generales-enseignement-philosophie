@@ -43,6 +43,15 @@ Une liste de chaînes vidéo intéressantes.
 - [Trucs de philo](https://www.youtube.com/c/Trucsdephilo/videos)
 - [Chaîne de David Lebreton](https://www.youtube.com/user/dlebreton1/videos)
 - [Le décodeur philosophique](https://www.youtube.com/channel/UCCLbdM_hSTXNQtZhrnRA0SA)
+- [Lesbonsprofs](https://www.youtube.com/watch?v=q9rIm7aqWkA&list=PLWwqShzWs6aYiGR2K0_wED15akGKyCEKo)
+- [Coursitout](https://www.youtube.com/channel/UCj7jEuQd8QWwcsNlO5T9P_A?fbclid=IwAR0S298txlAi5CITwCfJgVTA5ntaMjC2S5sroS9sYesAaiKldf9fhN5FfiE)
+- [Antiseche](https://www.youtube.com/watch?v=JXmDt18dtFM&list=RDCMUCeOp9CWBaW2tVIBAzCobzow&start_radio=1&t=4)
+- [Le coup de phil](https://www.youtube.com/user/LeCoupdePhil)
+- [Le Précepteur](https://www.youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA)
+- [Le patient zéro](https://www.youtube.com/channel/UCUCKgquqc8jUbNUwEzshlUA)
+- [COurs VIDéo 19](https://www.youtube.com/channel/UC51aOH9uMffKa7cCd49_LlA)
+- [Chaîne de Jean ZAGANIARIS](https://www.youtube.com/channel/UCRKdGFzKpdmnR5Hq4z3Fu1A/videos)
+- [Enregistrements de cours par "Bill vdw"](https://www.youtube.com/channel/UCrinRl-6Wh8o1Wt35Ww27cQ)
 - [Philosophie : le Roseau Pensant](https://www.youtube.com/channel/UC_RrGoRp8FMqi4KjdBuwCtQ)
 
 # Autres chaînes en anglais
@@ -65,6 +74,9 @@ Une liste de chaînes vidéo intéressantes.
 - [Chaîne de Sean Carroll](https://www.youtube.com/c/seancarroll/playlists)
 - [Chaîne d'Andrew D. Chapman](https://www.youtube.com/c/AndrewChapmanPhilosophy/playlists)
 - [80.000 hours](https://www.youtube.com/user/eightythousandhours/videos)
+- [Chaîne de Gregory Sadler (cours suivi sur la phéno de Hegel…)](https://www.youtube.com/user/gbisadler)
+- [Wisecrack (Philosophie à partir de la pop culture, notamment films et séries)](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
+
 
 # Mathématiques et sciences de la nature
 
@@ -83,6 +95,7 @@ Une liste de chaînes vidéo intéressantes.
 - [L'esprit Sorcier](https://www.youtube.com/c/LEspritSorcierOfficiel/videos)
 - [Jamy](https://www.youtube.com/c/Jamy/videos)
 - [e-penser](https://www.youtube.com/user/epenser1)
+- [Numberphile](https://www.youtube.com/user/numberphile)
 
 # Sciences humaines
 - [Stupid Economics](https://www.youtube.com/channel/UCyJDHgrsUKuWLe05GvC2lng) : économie
@@ -93,6 +106,10 @@ Une liste de chaînes vidéo intéressantes.
 - [Passé sauvage](https://www.youtube.com/c/Pass%C3%A9sauvage/) : anthropologie
 - [Politeia](https://www.youtube.com/c/PoliteiaUnipop/videos) : sciences politiques
 - [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ/videos) : économie
+- [Vortex : divers (collaboration entre plusieurs vidéastes francophones)](https://www.youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q)
+- [PsykoCouac : psychologie, axée TCC/thérapie des schémas](https://www.youtube.com/channel/UCsE6tdKFV2oSHFyDll72rWg)
+- [Bolchegeek : popular cultural studies, étude critique de films, séries](https://www.youtube.com/channel/UCEfpbmshpf-G90fGLla73kA)
+
 
 # Esprit critique, zététique
 - [Hygiène mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale/videos)
@@ -101,12 +118,15 @@ Une liste de chaînes vidéo intéressantes.
 - [Defakator](https://www.youtube.com/c/OfficielDEFAKATOR/videos)
 - [Un Monde riant](https://www.youtube.com/c/UnMondeRiant/videos)
 - [Chaîne de Clément FREZE, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
+- [Podcast "Scepticisme scientifique", fondé par J.M. Abrassart](https://www.scepticisme-scientifique.com/)
+- [Meta de choc](https://www.youtube.com/channel/UCeYerYR680Q56i4D1HJcF8Q)
 
 
 # Sur le langage
 
 - [Linguisticae](https://www.youtube.com/channel/UCofQxJWd4qkqc7ZgaLkZfcw)
 - [Le Stagirite](https://www.youtube.com/watch?v=LudAXRLy3uE&list=PL1CxKW7vr3VV1WueM9GgZM49A4jQGQ5AJ)
+- [Parler comme jamais](https://www.binge.audio/podcast/parler-comme-jamais)
 
 # Sur l'art
 
@@ -117,6 +137,7 @@ Une liste de chaînes vidéo intéressantes.
 # Sur la religion
 
 - [Le Dieu de la philo](https://www.youtube.com/user/MassonAlexis)
+- [Ave’Roes](https://www.youtube.com/channel/UCMGzPGJMKKDjnproamSIC1A)
 
 # Féminisme, antiracisme
 
