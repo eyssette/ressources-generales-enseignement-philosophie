@@ -22,11 +22,13 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 
 *   Peter Singer, _Sauver une vie_
 *   Ruwen Ogien, _Le corps et l'argent_
+*   Michael Sandel, _Justice_
 
 
 ## Des livres d'introduction à la philosophie
 
 *   Normand Baillargeon, _Stéroïdes pour comprendre la philosophie_
+*   Pierre Blackburn, _Penser. Une irrésistible introduction à la philosophie_
 *   Michel Puech, _La philosophie en clair_
 
 ## Une bande dessinée d'introduction à la philosophie
