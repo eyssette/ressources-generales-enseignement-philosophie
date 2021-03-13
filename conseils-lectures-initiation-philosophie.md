@@ -89,3 +89,4 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   _Le cercle des poètes disparus_, de Peter Weir 
 *   _Her_, de Spike Jonze
 *   _Matrix_, des sœurs Wachowski
+*   _Minority Report_, de Steven Spielberg
