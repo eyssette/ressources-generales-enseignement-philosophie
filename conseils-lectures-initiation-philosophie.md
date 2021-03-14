@@ -70,6 +70,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   Ray Bradbury, _Fahrenheit 45_
 *   Oscar Wilde, _Le portrait de Doran Gray_
 *   Daniel Keyes, _Des fleurs pour Algernon_
+*   Annie Ernaux, _La place_
 *   Victor Dixen, _Cogito_
 
 
