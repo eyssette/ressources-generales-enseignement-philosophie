@@ -11,7 +11,7 @@ Une liste de chaînes vidéo intéressantes.
 # Le top 5 en anglais
 
 1. [Crash Course – Philosophy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
-2. [Les cours de Michael Sandel à Harvard sur la justice](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6)
+2. [Les cours de Michael Sandel à Harvard sur la justice](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFEFEA6) et son [émission The Global Philosopher](https://www.bbc.co.uk/programmes/b075ft6f/episodes/player)
 3. [BBC4 – A History of Ideas](https://www.youtube.com/playlist?list=PLLiykcLllCgPE0q9BiMexLFj-1rq9GUwX)
 4. [Wireless Philosophy](https://www.youtube.com/user/WirelessPhilosophy/playlists)
 5. [Carneades](https://www.youtube.com/c/carneadesofcyrene/playlists)
