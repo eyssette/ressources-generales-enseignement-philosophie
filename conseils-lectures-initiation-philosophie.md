@@ -68,7 +68,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   George Orwell, _1984_
 *   Ira Levin, _Un bonheur insoutenable_
 *   Ray Bradbury, _Fahrenheit 45_
-*   Oscar Wilde, _Le portrait de Doran Gray_
+*   Oscar Wilde, _Le portrait de Dorian Gray_
 *   Daniel Keyes, _Des fleurs pour Algernon_
 *   Annie Ernaux, _La place_
 *   Victor Dixen, _Cogito_
