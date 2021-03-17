@@ -10,6 +10,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   Epicure, _Lettre à Ménécée_
 *   Epictète, _Manuel_
 *   Descartes, _Méditations métaphysiques_ I et II
+*   Hobbes, _Léviathan_, chapitres 13 à 17
 *   Hume, _Enquête sur l’entendement humain_
 *   Rousseau, _Discours sur l’origine et les fondements de l’inégalité parmi les hommes_
 *   Kant, _Qu’est-ce que les Lumières ?_
