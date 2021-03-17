@@ -30,6 +30,7 @@ Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.
 *   Normand Baillargeon, _Stéroïdes pour comprendre la philosophie_
 *   Pierre Blackburn, _Penser. Une irrésistible introduction à la philosophie_
 *   Michel Puech, _La philosophie en clair_
+*   Thomas Nagel, _Qu'est-ce que tout cela veut dire ? Une très brève introduction à la philosophie_
 
 ## Une bande dessinée d'introduction à la philosophie
 
