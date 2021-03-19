@@ -120,6 +120,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Chaîne de Clément FREZE, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
 - [Podcast "Scepticisme scientifique", fondé par J.M. Abrassart](https://www.scepticisme-scientifique.com/)
 - [Meta de choc](https://www.youtube.com/channel/UCeYerYR680Q56i4D1HJcF8Q)
+- [Astroscept](https://youtube.com/c/Astroscepticisme)
 
 
 # Sur le langage
