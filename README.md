@@ -26,4 +26,4 @@
 
 ## Page d'accueil personnalisée
 
-– [StartPage](https://eyssette.github.io/start-page/)
+- [StartPage](https://eyssette.github.io/start-page/)
