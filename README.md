@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resssources pour l'enseignement de la philosophie
+---
+
 # Introduction à la philosophie
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/conseils-lectures-initiation-philosophie.md)
