@@ -6,7 +6,7 @@
 
 # Textes de philosophie
 
-- [Des dossiers de textes sélectionnées par thématiques, notions, et auteurs](https://eyssette.github.io/dossiers/)
+- [Des dossiers de textes sélectionnés et classés par thématiques, notions, et auteurs](https://eyssette.github.io/dossiers/)
 - [Base de données des sujets du bac pour les explications de texte ](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
 
 # Sujets de dissertation
