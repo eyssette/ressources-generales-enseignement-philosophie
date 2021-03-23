@@ -1,7 +1,7 @@
 # Introduction à la philosophie
 
-- [Des conseils de lecture pour une initiation à la philosophie](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/conseils-lectures-initiation-philosophie.md)
-- [Des chaînes vidéo intéressantes](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/chaines-video-interessantes.md)
+- [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
+- [Des chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
 - [Histoire de la philosophie occidentale : une frise chronologique](https://eyssette.github.io/timelines/philosophie-occidentale.html) : en cours de construction
 
 # Textes de philosophie
@@ -19,8 +19,8 @@
 
 # Correction des copies
 - [Un outil pour corriger en ligne une copie : Mark(down)Papers](https://eyssette.github.io/mark-down-papers/)
-- [Une liste d'appréciations courantes pour la correction de dissertations ou d'explications de texte](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/liste-appreciations-courantes.md)
-- [Remarques sur le plagiat](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/remarques-sur-le-plagiat.md)
+- [Une liste d'appréciations courantes pour la correction de dissertations ou d'explications de texte](https://eyssette.github.io/ressources-generales-enseignement-philosophie/liste-appreciations-courantes)
+- [Remarques sur le plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat)
 
 # Page d'accueil personnalisée
 
