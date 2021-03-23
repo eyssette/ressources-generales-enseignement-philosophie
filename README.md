@@ -4,6 +4,7 @@
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/conseils-lectures-initiation-philosophie.md)
 - [Des chaînes vidéo intéressantes](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/chaines-video-interessantes.md)
+- [Histoire de la philosophie occidentale : une frise chronologique](https://eyssette.github.io/timelines/philosophie-occidentale.html) : en cours de construction
 
 ## Textes de philosophie
 
@@ -23,3 +24,6 @@
 - [Une liste d'appréciations courantes pour la correction de dissertations ou d'explications de texte](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/liste-appreciations-courantes.md)
 - [Remarques sur le plagiat](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/remarques-sur-le-plagiat.md)
 
+## Page d'accueil personnalisée
+
+– [StartPage](https://eyssette.github.io/start-page/)
