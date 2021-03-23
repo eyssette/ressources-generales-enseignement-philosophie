@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Resssources pour l'enseignement de la philosophie
 ---
 
