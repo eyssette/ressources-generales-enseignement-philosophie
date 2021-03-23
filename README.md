@@ -22,6 +22,11 @@
 - [Une liste d'appréciations courantes pour la correction de dissertations ou d'explications de texte](https://eyssette.github.io/ressources-generales-enseignement-philosophie/liste-appreciations-courantes)
 - [Remarques sur le plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat)
 
-# Page d'accueil personnalisée
+# Outils numériques
 
-- [StartPage](https://eyssette.github.io/start-page/)
+- [Utiliser le numérique en philosophie](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html) : support de formation (en cours de construction)
+- [Page d'accueil personnalisée](https://eyssette.github.io/start-page/)
+
+# Partage de mes cours
+
+- [Mes diaporamas](https://eyssette.github.io/marp-slides/)
