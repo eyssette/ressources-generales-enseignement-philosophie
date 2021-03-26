@@ -78,6 +78,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Wisecrack (Philosophie à partir de la pop culture, notamment films et séries)](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
 - [Kurzgesagt – In a Nutshell ](https://www.youtube.com/c/inanutshell/videos)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
+- [Consciousness and Metacognition Lab](https://www.youtube.com/channel/UChBPyJNLiFEtYdc7qwTIpsQ/videos)
 
 
 # Mathématiques et sciences de la nature
@@ -123,6 +124,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Podcast "Scepticisme scientifique", fondé par J.M. Abrassart](https://www.scepticisme-scientifique.com/)
 - [Meta de choc](https://www.youtube.com/channel/UCeYerYR680Q56i4D1HJcF8Q)
 - [Astroscept](https://youtube.com/c/Astroscepticisme)
+- [Sciences et pseudosciences](https://www.youtube.com/channel/UCJpKOFQoCHyynW5pFs0WsXA)
 
 
 # Sur le langage
