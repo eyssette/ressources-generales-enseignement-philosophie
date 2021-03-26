@@ -76,6 +76,8 @@ Une liste de chaînes vidéo intéressantes.
 - [80.000 hours](https://www.youtube.com/user/eightythousandhours/videos)
 - [Chaîne de Gregory Sadler (cours suivi sur la phéno de Hegel…)](https://www.youtube.com/user/gbisadler)
 - [Wisecrack (Philosophie à partir de la pop culture, notamment films et séries)](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
+- [Kurzgesagt – In a Nutshell ](https://www.youtube.com/c/inanutshell/videos)
+- [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
 
 
 # Mathématiques et sciences de la nature
