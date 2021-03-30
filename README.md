@@ -3,6 +3,7 @@
 - [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
 - [Des chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
 - [Histoire de la philosophie occidentale : une frise chronologique](https://eyssette.github.io/timelines/philosophie-occidentale.html) : en cours de construction
+- [Répertoire des manuels en Philosophie et HLP](https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels)
 
 # Textes de philosophie
 
