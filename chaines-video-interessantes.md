@@ -99,6 +99,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Jamy](https://www.youtube.com/c/Jamy/videos)
 - [e-penser](https://www.youtube.com/user/epenser1)
 - [Numberphile](https://www.youtube.com/user/numberphile)
+- [Scilabus](https://www.youtube.com/c/scilabus/videos)
 
 # Sciences humaines
 - [Stupid Economics](https://www.youtube.com/channel/UCyJDHgrsUKuWLe05GvC2lng) : économie
