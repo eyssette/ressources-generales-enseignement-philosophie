@@ -79,6 +79,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Kurzgesagt – In a Nutshell ](https://www.youtube.com/c/inanutshell/videos)
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
 - [Consciousness and Metacognition Lab](https://www.youtube.com/channel/UChBPyJNLiFEtYdc7qwTIpsQ/videos)
+- [Richard Brown](https://www.youtube.com/c/RichardBrownphilosophy/playlists)
 
 
 # Mathématiques et sciences de la nature
