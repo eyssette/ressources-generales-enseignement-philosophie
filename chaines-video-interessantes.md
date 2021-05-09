@@ -54,6 +54,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Enregistrements de cours par "Bill vdw"](https://www.youtube.com/channel/UCrinRl-6Wh8o1Wt35Ww27cQ)
 - [Philosophie : le Roseau Pensant](https://www.youtube.com/channel/UC_RrGoRp8FMqi4KjdBuwCtQ)
 - [Philosophie et culture générale](https://www.youtube.com/channel/UCIg9VeyNc93-1P0GnmBaUCA)
+- [Philoscience - François Verger](https://www.youtube.com/channel/UC_73Vl3IFxob5uQadWj3kUg)
 
 # Autres chaînes en anglais
 
