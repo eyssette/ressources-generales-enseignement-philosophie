@@ -1,3 +1,5 @@
+Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http://eyssette.github.io/) si vous avez des remarques, des questions ou une proposition.
+
 # Introduction à la philosophie
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
