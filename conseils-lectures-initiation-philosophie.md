@@ -1,8 +1,7 @@
 
 # Initiation à la philosophie
 
-Conseils de lecture de M. Eyssette - [cedric.eyssette@ac-lyon.fr](mailto:cedric.eyssette@ac-lyon.fr)
-
+Conseils de lecture de [M. Eyssette](https://eyssette.github.io)
 
 ## Quelques classiques de l'histoire de la philosophie
 
