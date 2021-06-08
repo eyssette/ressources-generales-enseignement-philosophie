@@ -83,6 +83,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Philosophy Tube](https://www.youtube.com/c/thephilosophytube/videos)
 - [Consciousness and Metacognition Lab](https://www.youtube.com/channel/UChBPyJNLiFEtYdc7qwTIpsQ/videos)
 - [Richard Brown](https://www.youtube.com/c/RichardBrownphilosophy/playlists)
+- [Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ/videos)
 
 
 # Mathématiques et sciences de la nature
