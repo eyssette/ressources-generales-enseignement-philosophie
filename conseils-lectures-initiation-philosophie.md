@@ -71,6 +71,7 @@ Conseils de lecture de [M. Eyssette](https://eyssette.github.io)
 *   Ray Bradbury, _Fahrenheit 45_
 *   Oscar Wilde, _Le portrait de Dorian Gray_
 *   Daniel Keyes, _Des fleurs pour Algernon_
+*   Vercors, _Les animaux dénaturés_
 *   Annie Ernaux, _La place_
 *   Victor Dixen, _Cogito_
 
