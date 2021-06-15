@@ -111,6 +111,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A) : histoire
 - [Ceci est une autre histoire](https://www.youtube.com/channel/UCKjDY4joMPcoRMmd-G1yz1Q) : histoire
 - [Histony](https://www.youtube.com/channel/UCt8ctlakIflnSG0ebFps7cw) : histoire
+- [L'Histoire nous le dira ](https://www.youtube.com/channel/UCN4TCCaX-gqBNkrUqXdgGRA) : histoire
 - [Darah](https://www.youtube.com/channel/UCOtyPss6tgbrqhnZMch-bZA/videos) : sociologie
 - [Passé sauvage](https://www.youtube.com/c/Pass%C3%A9sauvage/) : anthropologie
 - [Politeia](https://www.youtube.com/c/PoliteiaUnipop/videos) : sciences politiques
