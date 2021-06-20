@@ -56,6 +56,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Philosophie et culture générale](https://www.youtube.com/channel/UCIg9VeyNc93-1P0GnmBaUCA)
 - [Philoscience - François Verger](https://www.youtube.com/channel/UC_73Vl3IFxob5uQadWj3kUg)
 - [Henri de Monvallier](https://www.youtube.com/channel/UC2MEqkI6B7R5b8456-poEDg)
+- [Geekosophie Magazine](https://www.youtube.com/channel/UCwTYhjEMHWlV86ASP5XprWQ)
 
 # Autres chaînes en anglais
 
