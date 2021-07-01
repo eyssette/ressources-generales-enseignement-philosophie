@@ -6,7 +6,7 @@ Une liste de chaînes vidéo intéressantes.
 2. [META](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA)
 3. [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
 4. [La philo des écrans](https://www.youtube.com/channel/UC5oYInmzMnMbsuiBdIEtytg)
-5. [François Jourde : Bac Philo](https://www.youtube.com/watch?v=GhP9DO5AH3I&list=RDCMUCrPDGdPj4pzAGg1uA4n2swA&start_radio=1&t=22)
+5. [François Jourde : Bac Philo](https://www.youtube.com/watch?v=GhP9DO5AH3I&list=RDCMUCrPDGdPj4pzAGg1uA4n2swA&start_radio=1)
 
 # Le top 5 en anglais
 
@@ -57,6 +57,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Philoscience - François Verger](https://www.youtube.com/channel/UC_73Vl3IFxob5uQadWj3kUg)
 - [Henri de Monvallier](https://www.youtube.com/channel/UC2MEqkI6B7R5b8456-poEDg)
 - [Geekosophie Magazine](https://www.youtube.com/channel/UCwTYhjEMHWlV86ASP5XprWQ)
+- [Philosopher au présent](https://www.youtube.com/channel/UCzTZ-8_rNTIE3B9HxNxepNg)
 
 # Autres chaînes en anglais
 
