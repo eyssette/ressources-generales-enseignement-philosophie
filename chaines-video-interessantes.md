@@ -116,7 +116,7 @@ Une liste de chaînes vidéo intéressantes.
 - [L'Histoire nous le dira ](https://www.youtube.com/channel/UCN4TCCaX-gqBNkrUqXdgGRA) : histoire
 - [Darah](https://www.youtube.com/channel/UCOtyPss6tgbrqhnZMch-bZA/videos) : sociologie
 - [Passé sauvage](https://www.youtube.com/c/Pass%C3%A9sauvage/) : anthropologie
-- [Politeia](https://www.youtube.com/c/PoliteiaUnipop/videos) : sciences politiques
+- [Politeia](https://www.youtube.com/channel/UCPgBAjDYc9lDt0Aui7ITnDA) : sciences politiques
 - [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ/videos) : économie
 - [Vortex : divers (collaboration entre plusieurs vidéastes francophones)](https://www.youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q)
 - [PsykoCouac : psychologie, axée TCC/thérapie des schémas](https://www.youtube.com/channel/UCsE6tdKFV2oSHFyDll72rWg)
