@@ -145,7 +145,7 @@ Une liste de chaînes vidéo intéressantes.
 # Sur l'art
 
 - [SOS Art](https://www.youtube.com/channel/UCzi49Gp-XX9m5foHOWWGKeA)
-– [L'art en question](https://www.youtube.com/watch?v=0nR6qVNosk4&list=PLA4108FDD770EB66D)
+- [L'art en question](https://www.youtube.com/watch?v=0nR6qVNosk4&list=PLA4108FDD770EB66D)
 - [Racont'Art](https://www.youtube.com/channel/UCQ67knG3HTuTmms9s5kl7UQ)
 
 # Sur la religion
