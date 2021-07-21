@@ -158,4 +158,5 @@ Une liste de chaînes vidéo intéressantes.
 - [Game Of Hearth](https://www.youtube.com/channel/UC3A_TG1leX0eQEJD1Ew6Ftw)
 - [Les couilles sur la table](https://www.youtube.com/channel/UCmsEKbOV5Drze1NdtQcsSNg)
 - [Les Brutes](https://lesbrutes.telequebec.tv/)
+- [La poudre](https://nouvellesecoutes.fr/podcast/la-poudre/)
 - [Kiffe ta race](https://www.youtube.com/channel/UCPVS8efBdhXGGYs4JW2IJcQ)
