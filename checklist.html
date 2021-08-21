@@ -8,7 +8,10 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
 	<link rel="stylesheet" href="https://wikiki.github.io/css/documentation.css?v=201911011043">
 	<style>
-		#mainContent {min-width: 800px!important;}
+		#mainContent {
+			min-width: 800px !important;
+		}
+
 		label:before,
 		label:after {
 			margin-left: -10px;
@@ -65,7 +68,8 @@
 							<div class="column is-11">
 								<input id="switchExample1a1" type="checkbox" name="switchExample1a1"
 									class="switch is-rounded is-outlined">
-								<label for="switchExample1a1">Connaissances à maîtriser<p class="has-text-grey">Ai-je fait
+								<label for="switchExample1a1">Connaissances à maîtriser<p class="has-text-grey">Ai-je
+										fait
 										une
 										liste des idées importantes que les élèves doivent connaître à la fin du cours ?
 										<input class="input is-small has-background-white-bis" type="text"
@@ -73,7 +77,7 @@
 									</p>
 								</label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-1a1">＋</button></div>
 						</div>
 						<div class="field columns">
 							<div class="column is-11">
@@ -85,9 +89,9 @@
 										ce
 										cours ? <input class="input is-small has-background-white-bis" type="text"
 											placeholder="" id="input-text-1a2"></p>
-									</label>
+								</label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-1a2">＋</button></div>
 						</div>
 						<div class="field columns">
 							<div class="column is-11">
@@ -98,9 +102,9 @@
 										attitudes intellectuelles qui vont plus particulièrement être mobilisées dans ce
 										cours ? <input class="input is-small has-background-white-bis" type="text"
 											placeholder="" id="input-text-1a3"></p>
-									</label>
+								</label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-1a3">＋</button></div>
 						</div>
 
 						<h3 class="title is-4">b) Mise en situation</h2>
@@ -112,9 +116,9 @@
 											formulé les défis intellectuels que le cours va proposer aux élèves et les
 											enjeux de ces défis ?<input class="input is-small has-background-white-bis"
 												type="text" placeholder="" id="input-text-1b1"></p>
-										</label>
+									</label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-1b1">＋</button></div>
 							</div>
 							<div class="field columns">
 								<div class="column is-11">
@@ -127,7 +131,7 @@
 												type="text" placeholder="" id="input-text-1b2">
 										</p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-1b2">＋</button></div>
 							</div>
 				</div>
 
@@ -144,7 +148,7 @@
 											type="text" placeholder="" id="input-text-2a1">
 									</p></label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-2a1">＋</button></div>
 						</div>
 						<div class="field columns">
 							<div class="column is-11">
@@ -157,7 +161,7 @@
 											type="text" placeholder="" id="input-text-2a2">
 									</p></label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-2a2">＋</button></div>
 						</div>
 						<h3 class="title is-4">b) Structurer le contenu</h2>
 							<div class="field columns">
@@ -170,7 +174,7 @@
 												placeholder="" id="input-text-2b0">
 										</p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-2b0">＋</button></div>
 							</div>
 							<div class="field columns">
 								<div class="column is-11">
@@ -183,7 +187,7 @@
 												placeholder="" id="input-text-2b1">
 										</p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-2b1">＋</button></div>
 							</div>
 							<div class="field columns">
 								<div class="column is-11">
@@ -196,7 +200,7 @@
 												placeholder="" id="input-text-2b2">
 										</p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-2b2">＋</button></div>
 							</div>
 							<h3 class="title is-4">c) Travailler en profondeur un contenu élaboré</h2>
 								<div class="field columns">
@@ -210,7 +214,7 @@
 													placeholder="" id="input-text-2c1">
 											</p></label>
 									</div>
-									<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+									<div class="column"><button class="button is-white has-text-grey" id="button-2c1">＋</button></div>
 								</div>
 								<div class="field columns">
 									<div class="column is-11">
@@ -223,7 +227,7 @@
 													type="text" placeholder="" id="input-text-2c2">
 											</p></label>
 									</div>
-									<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+									<div class="column"><button class="button is-white has-text-grey" id="button-2c2">＋</button></div>
 								</div>
 								<div class="field columns">
 									<div class="column is-11">
@@ -236,7 +240,7 @@
 													placeholder="" id="input-text-2c3">
 											</p></label>
 									</div>
-									<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+									<div class="column"><button class="button is-white has-text-grey" id="button-2c3">＋</button></div>
 								</div>
 								<h3 class="title is-4">d) Adapter le contenu</h2>
 									<div class="field columns">
@@ -250,7 +254,7 @@
 														placeholder="" id="input-text-2d1">
 												</p></label>
 										</div>
-										<div class="column"><button class="button is-white has-text-grey">＋</button>
+										<div class="column"><button class="button is-white has-text-grey" id="button-2d1">＋</button>
 										</div>
 									</div>
 									<div class="field columns">
@@ -263,7 +267,7 @@
 														type="text" placeholder="" id="input-text-2d2">
 												</p></label>
 										</div>
-										<div class="column"><button class="button is-white has-text-grey">＋</button>
+										<div class="column"><button class="button is-white has-text-grey" id="button-2d2">＋</button>
 										</div>
 									</div>
 									<h3 class="title is-4">e) Méthodes</h2>
@@ -278,7 +282,7 @@
 															type="text" placeholder="" id="input-text-2e1">
 													</p></label>
 											</div>
-											<div class="column"><button class="button is-white has-text-grey">＋</button>
+											<div class="column"><button class="button is-white has-text-grey" id="button-2e1">＋</button>
 											</div>
 										</div>
 										<div class="field columns">
@@ -292,7 +296,7 @@
 															type="text" placeholder="" id="input-text-2e2">
 													</p></label>
 											</div>
-											<div class="column"><button class="button is-white has-text-grey">＋</button>
+											<div class="column"><button class="button is-white has-text-grey" id="button-2e2">＋</button>
 											</div>
 										</div>
 										<div class="field columns">
@@ -307,7 +311,7 @@
 															placeholder="" id="input-text-2e3">
 													</p></label>
 											</div>
-											<div class="column"><button class="button is-white has-text-grey">＋</button>
+											<div class="column"><button class="button is-white has-text-grey" id="button-2e3">＋</button>
 											</div>
 										</div>
 										<h3 class="title is-4">f) Synthèse</h2>
@@ -325,7 +329,7 @@
 														</p></label>
 												</div>
 												<div class="column"><button
-														class="button is-white has-text-grey">＋</button></div>
+														class="button is-white has-text-grey" id="button-2f1">＋</button></div>
 											</div>
 											<div class="field columns">
 												<div class="column is-11">
@@ -340,7 +344,7 @@
 														</p></label>
 												</div>
 												<div class="column"><button
-														class="button is-white has-text-grey">＋</button></div>
+														class="button is-white has-text-grey" id="button-2f2">＋</button></div>
 											</div>
 				</div>
 				<h2 class="title is-3 mt-6">3. Exercices</h2>
@@ -350,13 +354,13 @@
 							<div class="column is-11">
 								<input id="switchExample3a1" type="checkbox" name="switchExample3a1"
 									class="switch is-rounded is-outlined">
-								<label for="switchExample3a1">Exercice préalable<p class="has-text-grey">Ai-je prévu un exercice préalable à faire (lectures
-									obligatoires, pré-tests, interrogation orale …) avant de commencer le cours, à
-									la maison ou sur place ?<input
-											class="input is-small has-background-white-bis" type="text"
-											placeholder=""></p></label>
+								<label for="switchExample3a1">Exercice préalable<p class="has-text-grey">Ai-je prévu un
+										exercice préalable à faire (lectures
+										obligatoires, pré-tests, interrogation orale …) avant de commencer le cours, à
+										la maison ou sur place ?<input class="input is-small has-background-white-bis"
+											type="text" placeholder="" id="input-text-3a1"></p></label>
 							</div>
-							<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+							<div class="column"><button class="button is-white has-text-grey" id="button-3a1">＋</button></div>
 						</div>
 						<h3 class="title is-4">b) Pendant le cours</h2>
 							<div class="field columns">
@@ -364,24 +368,27 @@
 									<input id="switchExample3b1" type="checkbox" name="switchExample3b1"
 										class="switch is-rounded is-outlined">
 									<label for="switchExample3b1">Petits exercices (QCM, … ) pour vérifier la
-										compréhension<p class="has-text-grey">Ai-je prévu de faire régulièrement des petits exercices
-											pour vérifier que les élèves ont bien compris ce que l'on vient de faire ?<input class="input is-small has-background-white-bis"
-											type="text" placeholder="">
+										compréhension<p class="has-text-grey">Ai-je prévu de faire régulièrement des
+											petits exercices
+											pour vérifier que les élèves ont bien compris ce que l'on vient de faire
+											?<input class="input is-small has-background-white-bis" type="text"
+												placeholder="" id="input-text-3b1">
 										</p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-3b1">＋</button></div>
 							</div>
 							<div class="field columns">
 								<div class="column is-11">
 									<input id="switchExample3b2" type="checkbox" name="switchExample3b2"
 										class="switch is-rounded is-outlined">
-									<label for="switchExample3b2">Exercices d'application<p class="has-text-grey">Ai-je prévu des exercices ciblées pour entraîner les
+									<label for="switchExample3b2">Exercices d'application<p class="has-text-grey">Ai-je
+											prévu des exercices ciblées pour entraîner les
 											élèves à mettre tout de suite en application, de manière élaborée, ce que
 											l'on vient de faire ?
-											<input class="input is-small has-background-white-bis"
-											type="text" placeholder=""></p></label>
+											<input class="input is-small has-background-white-bis" type="text"
+												placeholder="" id="input-text-3b2"></p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-3b2">＋</button></div>
 							</div>
 							<div class="field columns">
 								<div class="column is-11">
@@ -389,89 +396,97 @@
 										class="switch is-rounded is-outlined">
 									<label for="switchExample3b3">Activités plus importantes<p class="has-text-grey">
 											Ai-je prévu une activité plus importante (travail de
-											groupe plus complexe, travail de rédaction individuelle plus avancé) ?<input class="input is-small has-background-white-bis"
-											type="text" placeholder=""></p></label>
+											groupe plus complexe, travail de rédaction individuelle plus avancé) ?<input
+												class="input is-small has-background-white-bis" type="text"
+												placeholder="" id="input-text-3b3"></p></label>
 								</div>
-								<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+								<div class="column"><button class="button is-white has-text-grey" id="button-3b3">＋</button></div>
 							</div>
 							<h3 class="title is-4">c) En fin de cours, ou après le cours</h2>
 								<div class="field columns">
 									<div class="column is-11">
-										<input id="switchExample3b4" type="checkbox" name="switchExample3b4"
+										<input id="switchExample3c1" type="checkbox" name="switchExample3c1"
 											class="switch is-rounded is-outlined">
-										<label for="switchExample3b4">Exercice en fin de cours<p class="has-text-grey">
+										<label for="switchExample3c1">Exercice en fin de cours<p class="has-text-grey">
 												Ai-je prévu un exercice en fin de cours (“exit
-												ticket”, …) pour vérifier la compréhension de l'essentiel du cours ?<input class="input is-small has-background-white-bis"
-												type="text" placeholder=""></p></label>
+												ticket”, …) pour vérifier la compréhension de l'essentiel du cours
+												?<input class="input is-small has-background-white-bis" type="text"
+													placeholder="" id="input-text-3c1"></p></label>
 									</div>
-									<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+									<div class="column"><button class="button is-white has-text-grey" id="button-3c1">＋</button></div>
 								</div>
 								<div class="field columns">
 									<div class="column is-11">
-										<input id="switchExample3c1" type="checkbox" name="switchExample3c1"
+										<input id="switchExample3c2" type="checkbox" name="switchExample3c2"
 											class="switch is-rounded is-outlined">
-										<label for="switchExample3c1">Exercices pour s'entraîner<p
+										<label for="switchExample3c2">Exercices pour s'entraîner<p
 												class="has-text-grey">Ai-je prévu des exercices pour que les élèves
 												puissent s'entraîner après le cours ?
-												<input class="input is-small has-background-white-bis"
-											type="text" placeholder=""></p></label>
+												<input class="input is-small has-background-white-bis" type="text"
+													placeholder="" id="input-text-3c2"></p></label>
 									</div>
-									<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+									<div class="column"><button class="button is-white has-text-grey" id="button-3c2">＋</button></div>
 								</div>
 				</div>
 				<h2 class="title is-3 mt-6">4. Engagement des élèves</h2>
 				<div class="box p-5">
 					<div class="field columns">
 						<div class="column is-11">
-							<input id="switchExample4a" type="checkbox" name="switchExample4a"
+							<input id="switchExample4a1" type="checkbox" name="switchExample4a1"
 								class="switch is-rounded is-outlined">
-							<label for="switchExample4a">Laisser une marge de choix<p class="has-text-grey">Ai-je
+							<label for="switchExample4a1">Laisser une marge de choix<p class="has-text-grey">Ai-je
 									prévu de laisser une part de choix dans le travail que je propose aux élèves afin
-									qu'ils soient dans une démarche active d'implication ?<input class="input is-small has-background-white-bis"
-									type="text" placeholder=""></p></label>
+									qu'ils soient dans une démarche active d'implication ?<input
+										class="input is-small has-background-white-bis" type="text" placeholder="" id="input-text-4a1"></p>
+								</label>
 						</div>
-						<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+						<div class="column"><button class="button is-white has-text-grey" id="button-4a1">＋</button></div>
 					</div>
 					<div class="field columns">
 						<div class="column is-11">
-							<input id="switchExample4b" type="checkbox" name="switchExample4b"
+							<input id="switchExample4a2" type="checkbox" name="switchExample4a2"
 								class="switch is-rounded is-outlined">
-							<label for="switchExample4b">Alterner des temps différents pendant le cours<p
+							<label for="switchExample4a2">Alterner des temps différents pendant le cours<p
 									class="has-text-grey">Ai-je prévu de varier les manières de travailler
-									pendant mon cours afin de toujours maintenir l'activité des élèves ?<input class="input is-small has-background-white-bis"
-									type="text" placeholder=""></p></label>
+									pendant mon cours afin de toujours maintenir l'activité des élèves ?<input
+										class="input is-small has-background-white-bis" type="text" placeholder="" id="input-text-4a2"></p>
+								</label>
 						</div>
-						<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+						<div class="column"><button class="button is-white has-text-grey" id="button-4a2">＋</button></div>
 					</div>
 					<div class="field columns">
 						<div class="column is-11">
-							<input id="switchExample4c" type="checkbox" name="switchExample4c"
+							<input id="switchExample4a3" type="checkbox" name="switchExample4a3"
 								class="switch is-rounded is-outlined">
-							<label for="switchExample4c">Prise de notes<p
-									class="has-text-grey">Ai-je prévu la manière dont je vais engager les élèves dans la prise de notes (accompagnement, prise de notes guidée, …) ?<input class="input is-small has-background-white-bis"
-									type="text" placeholder=""></p></label>
+							<label for="switchExample4a3">Prise de notes<p class="has-text-grey">Ai-je prévu la manière
+									dont je vais engager les élèves dans la prise de notes (accompagnement, prise de
+									notes guidée, …) ?<input class="input is-small has-background-white-bis" type="text"
+										placeholder="" id="input-text-4a3"></p></label>
 						</div>
-						<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+						<div class="column"><button class="button is-white has-text-grey" id="button-4a3">＋</button></div>
 					</div>
 					<div class="field columns">
 						<div class="column is-11">
-							<input id="switchExample4d" type="checkbox" name="switchExample4d"
+							<input id="switchExample4a4" type="checkbox" name="switchExample4a4"
 								class="switch is-rounded is-outlined">
-							<label for="switchExample4d">Prise de notes<p
-									class="has-text-grey">Le contenu de mon cours, les exercices proposés sont-ils engageants et motivants pour les élèves ?<input class="input is-small has-background-white-bis"
-									type="text" placeholder=""></p></label>
+							<label for="switchExample4a4">Prise de notes<p class="has-text-grey">Le contenu de mon cours,
+									les exercices proposés sont-ils engageants et motivants pour les élèves ?<input
+										class="input is-small has-background-white-bis" type="text" placeholder="" id="input-text-4a4"></p>
+								</label>
 						</div>
-						<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+						<div class="column"><button class="button is-white has-text-grey" id="button-4a4">＋</button></div>
 					</div>
 					<div class="field columns">
 						<div class="column is-11">
-							<input id="switchExample4e" type="checkbox" name="switchExample4e"
+							<input id="switchExample4a5" type="checkbox" name="switchExample4a5"
 								class="switch is-rounded is-outlined">
-							<label for="switchExample4e">Participation des élèves<p
-									class="has-text-grey">Ai-je prévu la manière dont je vais faire participer les élèves (discussion avec la classe, travail de groupe, entretien avec quelques élèves…) ?<input class="input is-small has-background-white-bis"
-									type="text" placeholder=""></p></label>
+							<label for="switchExample4a5">Participation des élèves<p class="has-text-grey">Ai-je prévu la
+									manière dont je vais faire participer les élèves (discussion avec la classe, travail
+									de groupe, entretien avec quelques élèves…) ?<input
+										class="input is-small has-background-white-bis" type="text" placeholder="" id="input-text-4a5"></p>
+								</label>
 						</div>
-						<div class="column"><button class="button is-white has-text-grey">＋</button></div>
+						<div class="column"><button class="button is-white has-text-grey" id="button-4a5">＋</button></div>
 					</div>
 				</div>
 			</div>
