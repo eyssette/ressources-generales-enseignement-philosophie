@@ -1,5 +1,10 @@
 Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http://eyssette.github.io/) si vous avez des remarques, des questions ou une proposition.
 
+# Préparation de ses cours
+
+- [Checklist](https://eyssette.github.io/ressources-generales-enseignement-philosophie/checklist) pour vérifier certains points importants quand on prépare un cours
+- [Mes cours](https://eyssette.github.io/cours/) sont en partie en ligne si cela peut servir
+
 # Introduction à la philosophie
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
@@ -34,6 +39,3 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 - [Un compteur de mots](https://eyssette.github.io/combiendemots/) pour évaluer des temps de lecture, d'écriture, ou évaluer la complexité d'un texte.
 - [Page d'accueil personnalisée](https://eyssette.github.io/start-page/)
 
-# Partage de mes cours
-
-- [Mes diaporamas](https://eyssette.github.io/marp-slides/)
