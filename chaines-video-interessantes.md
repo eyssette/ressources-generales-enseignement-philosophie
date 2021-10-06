@@ -86,7 +86,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Consciousness and Metacognition Lab](https://www.youtube.com/channel/UChBPyJNLiFEtYdc7qwTIpsQ/videos)
 - [Richard Brown](https://www.youtube.com/c/RichardBrownphilosophy/playlists)
 - [Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ/videos)
-
+- [The Dissenter](https://www.youtube.com/c/TheDissenterRL) : beaucoup d'interviews de philosophes contemporains
 
 # Mathématiques et sciences de la nature
 
