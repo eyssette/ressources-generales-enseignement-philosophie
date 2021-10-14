@@ -64,6 +64,7 @@ Le programme propose à l’étude sept notions :
     </tr>
   </tbody>
 </table>
+
 La présentation des notions doit être rapportée et subordonnée aux explications et aux orientations qui lui donnent sens et que ce programme énonce explicitement. Elle ne se réduit pas à une liste d’objets d’étude distincts et invite donc à ne pas traiter chaque notion comme un chapitre séparé des autres, sans toutefois imposer à l’avance au professeur une démarche philosophique dont il est seul responsable. Le programme garantit ainsi la liberté pédagogique du professeur de philosophie.
 
 Les notions n’indiquent pas des parcours qui seraient déterminés à l’avance, pas davantage un ordre correspondant aux chapitres successifs d’un cours, qui relève de la responsabilité du professeur. Leur détermination et leur mise en relation dépendent des questions et problèmes travaillés, ainsi que des itinéraires réflexifs proposés par le professeur. Il faut et il suffit que, durant l’année scolaire, elles soient toutes examinées dans leurs dimensions essentielles.
