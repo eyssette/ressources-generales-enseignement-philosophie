@@ -1,4 +1,6 @@
-# Préambule
+# Programme de philosophie en série générale
+
+## Préambule
 
 Enseignement commun dispensé dans toutes les classes terminales et sanctionné, à l’examen du baccalauréat, par une épreuve terminale écrite, l’enseignement de la philosophie a pour but de former le jugement critique des élèves et de les instruire par l’acquisition d’une culture philosophique initiale. Ces deux objectifs sont étroitement liés : le jugement s’exerce avec discernement quand il s’appuie sur des connaissances maîtrisées ; une culture philosophique initiale est nécessaire pour poser, formuler et tenter de résoudre des problèmes philosophiques.
 
@@ -21,7 +23,7 @@ L’enseignement de la philosophie dans les classes terminales s’adresse à to
 
 Le programme de l’enseignement de la philosophie dans les classes terminales reprend le principe qui constitue la norme constante et reconnue de la discipline : c’est un programme de notions auxquelles s’adjoint une liste d’auteurs. L’approche des notions et des auteurs est ordonnée à des perspectives.
 
-# Perspectives
+## Perspectives
 
 Trois perspectives sont retenues :
 - L’existence humaine et la culture
@@ -35,7 +37,7 @@ Ces trois perspectives orientent vers des problèmes constamment présents dans 
 
 Ces perspectives ne s’ajoutent donc pas aux notions : elles définissent le cadre dans lequel elles peuvent donner lieu à des sujets de baccalauréat et orientent ainsi, sans le contraindre, le traitement des notions par les professeurs et leurs élèves. Elles excluent toute répartition prédéfinie des notions. Ainsi, à simple titre d’exemple, la notion de _raison_ peut être abordée dans une réflexion sur la connaissance, mais tout aussi bien dans une perspective pratique ; _l’art_ ou la _technique_ peuvent donner lieu à une réflexion morale, à une interrogation sur le type de connaissance qu’ils procurent mais aussi sur leur place dans l’existence humaine et la culture. Les notions retenues le sont précisément parce qu’on ne saurait réduire d’avance leur examen à une dimension unique de l’expérience humaine.
 
-# Notions
+## Notions
 
 Le nombre et le choix des notions sont nécessairement liés aux conditions de l’enseignement de la philosophie dans les classes terminales. La cohérence et l’homogénéité de notions choisies en nombre adapté à l’horaire qui lui est dévolu assurent la limitation du programme. Elles permettent d’explorer les trois perspectives retenues, en étudiant les notions dans les relations essentielles qu’elles entretiennent entre elles et, ainsi, de conduire avec les élèves une authentique réflexion philosophique qui les prépare directement aux exercices qui leur seront proposés à l’examen.
 
@@ -86,7 +88,7 @@ Communément partagées, ces notions font l’objet d’une élaboration concept
 
 Si ce programme de notions veille à n’imprimer aucune orientation doctrinale particulière ni aucune limitation arbitraire du traitement philosophique des notions, il détermine et limite cependant les sujets qu’il est possible de proposer à l’examen du baccalauréat.
 
-# Auteurs
+## Auteurs
 
 L’étude d’œuvres de philosophes est inséparable de l’examen des notions. Au-delà de la culture qu’elle dispense, elle forme la matière même de l’enseignement de la philosophie. En accédant directement à la manière singulière dont un auteur formule un problème et en examine les différents aspects, l’élève nourrit sa réflexion pour envisager, selon une perspective plus large et plus profonde, les questions qui lui sont posées et les textes qu’il lui faut expliquer.
 
@@ -99,7 +101,7 @@ N. Machiavel ; M. Montaigne (de) ; F. Bacon ; T. Hobbes ; R. Descartes�
 G.W.H. Hegel ; A. Schopenhauer ; A. Comte ; A.&#8209;A. Cournot ; L. Feuerbach ; A. Tocqueville (de) ; J.&#8209;S. Mill ; S. Kierkegaard ; K. Marx ; F. Engels ; W. James ; F. Nietzsche ; S. Freud ; E. Durkheim ; H. Bergson ; E. Husserl ; M. Weber ; Alain ; M. Mauss ; B. Russell ; K. Jaspers ; G. Bachelard ; M. Heidegger ; L. Wittgenstein ; W. Benjamin ; K. Popper ; V. Jankélévitch ; H. Jonas ; R. Aron ; J.&#8209;P. Sartre ; H. Arendt ; E. Levinas ; S. de Beauvoir ; C. Lévi&#8209;Strauss ; M. Merleau&#8209;Ponty ; S. Weil ; J. Hersch ; P. Ricœur ; E. Anscombe ; I. Murdoch ; J. Rawls ; G. Simondon ; M. Foucault ; H. Putnam.</td></tr></table>
 
 
-# Repères
+## Repères
 
 L’examen des notions et l’étude des œuvres sont précisés et enrichis par des repères que le professeur sollicite dans la conduite de son enseignement. Explicitement formulés afin que les élèves se les approprient, les repères ne font en aucun cas l’objet d’un enseignement séparé ni ne constituent des parties de cours.
 
@@ -109,7 +111,7 @@ Les repères les plus fréquemment sollicités et les plus formateurs sont indiq
 
 <table style="width:90%; margin:auto;"><tr><td>Absolu/relatif – Abstrait/concret – En acte/en puissance – Analyse/synthèse – Concept/image/métaphore – Contingent/nécessaire – Croire/savoir – Essentiel/accidentel – Exemple/preuve - Expliquer/comprendre – En fait/en droit – Formel/matériel – Genre/espèce/individu – Hypothèse/conséquence/conclusion – Idéal/réel – Identité/égalité/différence – Impossible/possible – Intuitif/discursif – Légal/légitime – Médiat/immédiat – Objectif/subjectif/intersubjectif – Obligation/contrainte – Origine/fondement – Persuader/convaincre – Principe/cause/fin – Public/privé – Ressemblance/analogie – Théorie/pratique – Transcendant/immanent – Universel/général/particulier/singulier – Vrai/probable/certain.</td></tr></table>
 
-# Exercices et apprentissage de la réflexion philosophique
+## Exercices et apprentissage de la réflexion philosophique
 
 Le programme n’établit pas la liste exhaustive des exercices permettant aux élèves de maîtriser les contenus enseignés et de faire par eux-mêmes l’apprentissage de la réflexion philosophique. Il revient au professeur de leur proposer les exercices les mieux adaptés à leur formation comme à leurs progrès et d’utiliser dans la conduite de son cours diverses démarches philosophiques. Ce faisant, le professeur fournit des exemples du traitement des questions par les philosophes, que les élèves sont invités à s’approprier afin de progresser dans la construction et l’expression de leur pensée.
 
