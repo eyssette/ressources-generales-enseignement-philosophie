@@ -95,3 +95,7 @@ La dissertation est l’étude méthodique et progressive d’un problème que l
 Explication de texte et dissertation sont deux exercices complets qui reposent sur le respect d’exigences intellectuelles élémentaires : exprimer ses idées de manière simple et nuancée, faire un usage pertinent et justifié des termes qui ne sont pas couramment usités, indiquer les sens d’un mot et préciser celui que l’on retient pour construire un raisonnement, etc. Cependant, composer une explication de texte ou une dissertation ne consiste pas à se soumettre à des règles purement formelles. Il s’agit avant tout de développer un travail philosophique personnel et instruit des connaissances acquises par l’étude des notions et des œuvres.
 
 Les divers travaux accomplis par les élèves permettent au professeur de vérifier qu’ils se sont appropriés de façon précise, rigoureuse et raisonnée les problèmes, les concepts et les exemples étudiés en cours.
+
+<style>
+table thead {display:none}
+</style>
