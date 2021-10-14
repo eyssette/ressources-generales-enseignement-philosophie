@@ -73,7 +73,7 @@ Le programme propose à l’étude **dix-sept** notions :
     <tr>
       <td style="text-align: center">Le travail</td>
       <td style="text-align: center">La vérité</td>
-      <td style="border-right:none; border-bottom:none;"></td>
+      <td style="border-right:none!important; border-bottom:none!important;"></td>
     </tr>
   </tbody>
 </table>
