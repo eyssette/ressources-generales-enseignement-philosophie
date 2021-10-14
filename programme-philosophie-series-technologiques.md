@@ -1,7 +1,3 @@
-<style>
-table {width:90%; margin:auto;}
-</style>
-
 # Préambule
 
 Enseignement commun dispensé dans toutes les classes terminales et sanctionné, à l’examen du baccalauréat, par une épreuve terminale écrite, l’enseignement de la philosophie a pour but de former le jugement critique des élèves et de les instruire par l’acquisition d’une culture philosophique initiale. Ces deux objectifs sont étroitement liés : le jugement s’exerce avec discernement quand il s’appuie sur des connaissances maîtrisées ; une culture philosophique initiale est nécessaire pour poser, formuler et tenter de résoudre des problèmes philosophiques.
@@ -48,7 +44,7 @@ Les notions retenues ne font donc l’objet d’aucune association privilégiée
 
 Le programme propose à l’étude **sept** notions :
 
-<table>
+<table style="width:90%; margin:auto;">
   <tbody>
     <tr>
       <td style="text-align: center">L’art</td>
