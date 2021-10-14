@@ -1,6 +1,6 @@
 # Préambule
 
-Enseignement commun dispensé dans toutes les classes terminales et sanctionné, à l’examen du baccalauréat, par une épreuve terminale écrite, l’enseignement de la philosophie a pour but de former le jugement critique des élèves et de les instruire par l’acquisition d’une culture philosophique initiale. Ces deux objectifs sont étroitement liés : le jugement s’exerce avec discernement quand il s’appuie sur des connaissances maîtrisées ; une culture philosophique initiale est nécessaire pour poser, formuler et tenter de résoudre des problèmes philosophiques.
+Enseignement commun dispensé dans toutes les classes terminales et sanctionné, à l’examen du baccalauréat, par une épreuve terminale écrite, l’enseignement de la philosophie a pour but de former le jugement critique des élèves et de les instruire par l’acquisition d’une culture philosophique initiale. Ces deux objectifs sont étroitement liés : le jugement s’exerce avec discernement quand il s’appuie sur des connaissances maîtrisées ; une culture philosophique initiale est nécessaire pour poser, formuler et tenter de résoudre des problèmes philosophiques.
 
 Indissociable de la lecture de textes et d’œuvres appartenant à la philosophie, l’enseignement de la philosophie ne vise pourtant pas la connaissance des doctrines philosophiques ni celle de l’histoire des systèmes philosophiques. Il exclut la visée encyclopédique et la recherche de l’exhaustivité : il ne s’agit ni de parcourir toutes les étapes de la construction historique de la philosophie ni d’envisager tous les problèmes philosophiques que l’on peut légitimement poser.
 
@@ -12,10 +12,10 @@ culture philosophique qu’ils acquièrent pour traiter les questions abordées.
 Prenant appui sur les savoirs et savoir-faire acquis au cours de sa scolarité, l’élève apprend à analyser des notions, à les interroger, à les distinguer les unes des autres, à les articuler de manière pertinente. Il s’exerce à exposer clairement ses idées, à l’oral comme à l’écrit, à les formuler avec précision et exactitude. Il s’applique à les soumettre au doute, à examiner les objections, à y répondre sur la base de justifications raisonnées.
 
 Dans les travaux qui lui sont demandés, l’élève :
-- examine ses idées et ses connaissances pour en éprouver le bien-fondé ;
-- circonscrit les questions qui requièrent une réflexion préalable pour recevoir une réponse ;
-- confronte différents points de vue sur un problème avant d’y apporter une solution appropriée ;
-- justifie ce qu’il affirme et ce qu’il nie en formulant des propositions construites et des arguments instruits ;
+- examine ses idées et ses connaissances pour en éprouver le bien-fondé ;
+- circonscrit les questions qui requièrent une réflexion préalable pour recevoir une réponse ;
+- confronte différents points de vue sur un problème avant d’y apporter une solution appropriée ;
+- justifie ce qu’il affirme et ce qu’il nie en formulant des propositions construites et des arguments instruits ;
 - mobilise de manière opportune les connaissances qu’il acquiert par la lecture et l’étude des textes et des œuvres philosophiques.
 
 L’enseignement de la philosophie dans les classes terminales s’adresse à tous les élèves, quels que soient leur parcours et les études auxquelles ils se destinent. Son programme ne restreint pas l’étude à tel domaine spécialisé et n’impose pas aux professeurs et aux élèves des problèmes prédéfinis. Il doit cependant fixer les conditions conciliant une liberté sans laquelle aucune philosophie ni aucun enseignement de la philosophie ne sont possibles, et les exigences d’un examen national assurant une évaluation équitable des efforts des élèves et de leurs acquis.
@@ -30,11 +30,11 @@ Trois perspectives sont retenues :
 - La connaissance
 
 Ces trois perspectives orientent vers des problèmes constamment présents dans la tradition philosophique, qu’un enseignement initial de la philosophie ne saurait ignorer. Elles ont une triple fonction :
-- elles déterminent et donc limitent les sujets qui peuvent être donnés au baccalauréat, parce qu’ils engagent directement les problèmes fondamentaux qu’elles ouvrent ;
-- elles déterminent et donc limitent la liste des notions qu’il convient de retenir pour que ces perspectives soient effectivement éclairées par leur étude et par l’examen des problèmes qu’elles soulèvent ;
+- elles déterminent et donc limitent les sujets qui peuvent être donnés au baccalauréat, parce qu’ils engagent directement les problèmes fondamentaux qu’elles ouvrent ;
+- elles déterminent et donc limitent la liste des notions qu’il convient de retenir pour que ces perspectives soient effectivement éclairées par leur étude et par l’examen des problèmes qu’elles soulèvent ;
 - elles invitent les professeurs à les prendre en compte dans l’étude des notions et des œuvres, sans contraindre leur liberté pédagogique.
 
-Ces perspectives ne s’ajoutent donc pas aux notions : elles définissent le cadre dans lequel elles peuvent donner lieu à des sujets de baccalauréat et orientent ainsi, sans le contraindre, le traitement des notions par les professeurs et leurs élèves. Elles excluent toute répartition prédéfinie des notions. Ainsi, à simple titre d’exemple, la notion de vérité peut être abordée dans une réflexion sur la connaissance, mais tout aussi bien dans une perspective pratique ; l’art ou la technique peuvent donner lieu à une réflexion morale, à une interrogation sur le type de connaissance qu’ils procurent mais aussi sur leur place dans l’existence humaine et la culture. Les notions retenues le sont précisément parce qu’on ne saurait réduire d’avance leur examen à une dimension unique de l’expérience humaine.
+Ces perspectives ne s’ajoutent donc pas aux notions : elles définissent le cadre dans lequel elles peuvent donner lieu à des sujets de baccalauréat et orientent ainsi, sans le contraindre, le traitement des notions par les professeurs et leurs élèves. Elles excluent toute répartition prédéfinie des notions. Ainsi, à simple titre d’exemple, la notion de _vérité_ peut être abordée dans une réflexion sur la connaissance, mais tout aussi bien dans une perspective pratique ; _l’art_ ou la _technique_ peuvent donner lieu à une réflexion morale, à une interrogation sur le type de connaissance qu’ils procurent mais aussi sur leur place dans l’existence humaine et la culture. Les notions retenues le sont précisément parce qu’on ne saurait réduire d’avance leur examen à une dimension unique de l’expérience humaine.
 
 # Notions
 
@@ -65,9 +65,9 @@ La liste des auteurs est organisée selon trois périodes : l’Antiquité et le
 
 En classe terminale technologique, une telle étude n’est pas obligatoire. L’étude de textes d’une ampleur suffisante est néanmoins requise. Elle accompagne le développement du cours selon des modalités que le professeur détermine à partir des besoins de ses élèves. Il convient que le choix des textes soit propre à en favoriser la compréhension par tous les élèves.
 
-Les présocratiques ; Platon ; Aristote ; Zhuangzi ; Épicure ; Cicéron ; Lucrèce ; Sénèque ; Épictète ; Marc Aurèle ; Nāgārjuna ; Sextus Empiricus ; Plotin ; Augustin ; Avicenne ; Anselme ; Averroès ; Maïmonide ; Thomas d’Aquin ; Guillaume d’Occam.
-N. Machiavel ; M. Montaigne (de) ; F. Bacon ; T. Hobbes ; R. Descartes ; B. Pascal ; J. Locke ; B. Spinoza ; N. Malebranche ; G. W. Leibniz ; G. Vico ; G. Berkeley ; Montesquieu ; D. Hume ; J.-J. Rousseau ; D. Diderot ; E. Condillac (de) ; A. Smith ; E. Kant ; J. Bentham.
-G.W.H. Hegel ; A. Schopenhauer ; A. Comte ; A.- A. Cournot ; L. Feuerbach ; A. Tocqueville (de) ; J.-S. Mill ; S. Kierkegaard ; K. Marx ; F. Engels ; W. James ; F. Nietzsche ; S. Freud ; E. Durkheim ; H. Bergson ; E. Husserl ; M. Weber ; Alain ; M. Mauss ; B. Russell ; K. Jaspers ; G. Bachelard ; M. Heidegger ; L. Wittgenstein ; W. Benjamin ; K. Popper ; V. Jankélévitch ; H. Jonas ; R. Aron ; J.-P. Sartre ; H. Arendt ; E. Levinas ; S. de Beauvoir ; C. Lévi-Strauss ; M. Merleau-Ponty ; S. Weil ; J. Hersch ; P. Ricœur ; E. Anscombe ; I. Murdoch ; J. Rawls ; G. Simondon ; M. Foucault ; H. Putnam.
+Les présocratiques ; Platon ; Aristote ; Zhuangzi ; Épicure ; Cicéron ; Lucrèce ; Sénèque ; Épictète ; Marc Aurèle ; Nāgārjuna ; Sextus Empiricus ; Plotin ; Augustin ; Avicenne ; Anselme ; Averroès ; Maïmonide ; Thomas d’Aquin ; Guillaume d’Occam.
+N. Machiavel ; M. Montaigne (de) ; F. Bacon ; T. Hobbes ; R. Descartes ; B. Pascal ; J. Locke ; B. Spinoza ; N. Malebranche ; G. W. Leibniz ; G. Vico ; G. Berkeley ; Montesquieu ; D. Hume ; J.-J. Rousseau ; D. Diderot ; E. Condillac (de) ; A. Smith ; E. Kant ; J. Bentham.
+G.W.H. Hegel ; A. Schopenhauer ; A. Comte ; A.- A. Cournot ; L. Feuerbach ; A. Tocqueville (de) ; J.-S. Mill ; S. Kierkegaard ; K. Marx ; F. Engels ; W. James ; F. Nietzsche ; S. Freud ; E. Durkheim ; H. Bergson ; E. Husserl ; M. Weber ; Alain ; M. Mauss ; B. Russell ; K. Jaspers ; G. Bachelard ; M. Heidegger ; L. Wittgenstein ; W. Benjamin ; K. Popper ; V. Jankélévitch ; H. Jonas ; R. Aron ; J.-P. Sartre ; H. Arendt ; E. Levinas ; S. de Beauvoir ; C. Lévi-Strauss ; M. Merleau-Ponty ; S. Weil ; J. Hersch ; P. Ricœur ; E. Anscombe ; I. Murdoch ; J. Rawls ; G. Simondon ; M. Foucault ; H. Putnam.
 
 # Repères
 
