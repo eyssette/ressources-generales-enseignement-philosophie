@@ -107,7 +107,7 @@ Les repères prennent la forme de distinctions lexicales et conceptuelles qui, b
 
 Les repères les plus fréquemment sollicités et les plus formateurs sont indiqués ci-dessous par ordre alphabétique.
 
-Absolu/relatif – Abstrait/concret – En acte/en puissance – Analyse/synthèse – Concept/image/métaphore – Contingent/nécessaire – Croire/savoir – Essentiel/accidentel – Exemple/preuve - Expliquer/comprendre – En fait/en droit – Formel/matériel – Genre/espèce/individu – Hypothèse/conséquence/conclusion – Idéal/réel – Identité/égalité/différence – Impossible/possible – Intuitif/discursif – Légal/légitime – Médiat/immédiat – Objectif/subjectif/intersubjectif – Obligation/contrainte – Origine/fondement – Persuader/convaincre – Principe/cause/fin – Public/privé – Ressemblance/analogie – Théorie/pratique – Transcendant/immanent – Universel/général/particulier/singulier – Vrai/probable/certain.
+<table><tr><td>Absolu/relatif – Abstrait/concret – En acte/en puissance – Analyse/synthèse – Concept/image/métaphore – Contingent/nécessaire – Croire/savoir – Essentiel/accidentel – Exemple/preuve - Expliquer/comprendre – En fait/en droit – Formel/matériel – Genre/espèce/individu – Hypothèse/conséquence/conclusion – Idéal/réel – Identité/égalité/différence – Impossible/possible – Intuitif/discursif – Légal/légitime – Médiat/immédiat – Objectif/subjectif/intersubjectif – Obligation/contrainte – Origine/fondement – Persuader/convaincre – Principe/cause/fin – Public/privé – Ressemblance/analogie – Théorie/pratique – Transcendant/immanent – Universel/général/particulier/singulier – Vrai/probable/certain.</td></tr></table>
 
 # Exercices et apprentissage de la réflexion philosophique
 
