@@ -46,7 +46,7 @@ Le nombre et le choix des notions sont nécessairement liés aux conditions de l
 
 Les notions retenues ne font donc l’objet d’aucune association privilégiée. Elles ne sont pas articulées à des champs de problèmes qui seraient prédéfinis ni n’appartiennent à des domaines qui indiqueraient soit une exclusivité soit une priorité de traitement. Le programme veille ainsi à n’imprimer aucune orientation doctrinale particulière ni aucune limitation arbitraire de leur traitement philosophique.
 
-Le programme propose à l’étude sept notions :
+Le programme propose à l’étude **sept** notions :
 
 <table>
   <tbody>
@@ -60,7 +60,7 @@ Le programme propose à l’étude sept notions :
       <td style="text-align: center">La religion</td>
       <td style="text-align: center">La technique</td>
       <td style="text-align: center">La vérité</td>
-      <td style="border-right:none!important; border-bottom:none!important;">
+      <td style="border-right:none!important; border-bottom:none!important;"></td>
     </tr>
   </tbody>
 </table>
