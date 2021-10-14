@@ -43,14 +43,40 @@ Les notions retenues ne font donc l’objet d’aucune association privilégiée
 
 Le programme propose à l’étude **dix-sept** notions :
 
-||||
-|:-:|:-:|:-:|
-|L’art|Le bonheur|La conscience|
-|Le devoir|L’État|L’inconscient|
-|La justice|Le langage|La liberté|
-|La nature|La raison|La religion|
-|La science|La technique|Le temps|
-|Le travail|La vérité||
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: center">L’art</td>
+      <td style="text-align: center">Le bonheur</td>
+      <td style="text-align: center">La conscience</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Le devoir</td>
+      <td style="text-align: center">L’État</td>
+      <td style="text-align: center">L’inconscient</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">La justice</td>
+      <td style="text-align: center">Le langage</td>
+      <td style="text-align: center">La liberté</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">La nature</td>
+      <td style="text-align: center">La raison</td>
+      <td style="text-align: center">La religion</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">La science</td>
+      <td style="text-align: center">La technique</td>
+      <td style="text-align: center">Le temps</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">Le travail</td>
+      <td style="text-align: center">La vérité</td>
+      <td style="border-right:none; border-bottom:none;"></td>
+    </tr>
+  </tbody>
+</table>
 
 La présentation des notions doit être rapportée et subordonnée aux explications et aux orientations qui lui donnent sens et que ce programme énonce explicitement. Elle ne se réduit pas à une liste d’objets d’étude distincts et invite donc à ne pas traiter chaque notion comme un chapitre séparé des autres, sans toutefois imposer à l’avance au professeur une démarche philosophique dont il est seul responsable. Le programme garantit ainsi la liberté pédagogique du professeur de philosophie.
 
