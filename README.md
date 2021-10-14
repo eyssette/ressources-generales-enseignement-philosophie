@@ -4,6 +4,9 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 
 - [Checklist](https://eyssette.github.io/ressources-generales-enseignement-philosophie/checklist) pour vérifier certains points importants quand on prépare un cours
 - [Mes cours](https://eyssette.github.io/cours/) sont en partie en ligne si cela peut servir
+- [Le programme officiel en série générale](https://eyssette.github.io/ressources-generales-enseignement-philosophie/programme-philosophie-serie-generale.md)
+- [Le programme officiel en séries technologiques](https://eyssette.github.io/ressources-generales-enseignement-philosophie/programme-philosophie-series-technologiques.md)
+
 
 # Introduction à la philosophie
 
