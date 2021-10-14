@@ -43,7 +43,7 @@ Les notions retenues ne font donc l’objet d’aucune association privilégiée
 
 Le programme propose à l’étude **dix-sept** notions :
 
-<table>
+<table style="width:90%; margin:auto;">
   <tbody>
     <tr>
       <td style="text-align: center">L’art</td>
@@ -94,7 +94,7 @@ La liste des auteurs est organisée selon trois périodes : l’Antiquité et l
 
 En classe terminale générale, l’étude suivie d’une œuvre est obligatoire. Elle n’est pas séparée du cours dont elle accompagne le développement selon des modalités que le professeur détermine à partir des besoins de ses élèves. L’étude suivie d’une œuvre ne signifie pas nécessairement son étude intégrale. Il convient cependant de développer  toujours une analyse précise d’œuvres ou de parties choisies qui présentent une ampleur suffisante, une unité et une continuité. Le professeur veille à ce que le choix de l’œuvre ou des parties qu’il retient soit propre à en favoriser la compréhension par tous les élèves.
 
-<table><tr><td>Les présocratiques ; Platon ; Aristote ; Zhuangzi ; Épicure ; Cicéron ; Lucrèce ; Sénèque ; Épictète ; Marc Aurèle ; Nāgārjuna ; Sextus Empiricus ; Plotin ; Augustin ; Avicenne ; Anselme ; Averroès ; Maïmonide ; Thomas d’Aquin ; Guillaume d’Occam.<br>
+<table style="width:90%; margin:auto;"><tr><td>Les présocratiques ; Platon ; Aristote ; Zhuangzi ; Épicure ; Cicéron ; Lucrèce ; Sénèque ; Épictète ; Marc Aurèle ; Nāgārjuna ; Sextus Empiricus ; Plotin ; Augustin ; Avicenne ; Anselme ; Averroès ; Maïmonide ; Thomas d’Aquin ; Guillaume d’Occam.<br>
 N. Machiavel ; M. Montaigne (de) ; F. Bacon ; T. Hobbes ; R. Descartes ; B. Pascal ; J. Locke ; B. Spinoza ; N. Malebranche ; G. W. Leibniz ; G. Vico ; G. Berkeley ; Montesquieu ; D. Hume ; J.&#8209;J. Rousseau ; D. Diderot ; E. Condillac (de) ; A. Smith ; E. Kant ; J. Bentham.<br>
 G.W.H. Hegel ; A. Schopenhauer ; A. Comte ; A.&#8209;A. Cournot ; L. Feuerbach ; A. Tocqueville (de) ; J.&#8209;S. Mill ; S. Kierkegaard ; K. Marx ; F. Engels ; W. James ; F. Nietzsche ; S. Freud ; E. Durkheim ; H. Bergson ; E. Husserl ; M. Weber ; Alain ; M. Mauss ; B. Russell ; K. Jaspers ; G. Bachelard ; M. Heidegger ; L. Wittgenstein ; W. Benjamin ; K. Popper ; V. Jankélévitch ; H. Jonas ; R. Aron ; J.&#8209;P. Sartre ; H. Arendt ; E. Levinas ; S. de Beauvoir ; C. Lévi&#8209;Strauss ; M. Merleau&#8209;Ponty ; S. Weil ; J. Hersch ; P. Ricœur ; E. Anscombe ; I. Murdoch ; J. Rawls ; G. Simondon ; M. Foucault ; H. Putnam.</td></tr></table>
 
@@ -107,7 +107,7 @@ Les repères prennent la forme de distinctions lexicales et conceptuelles qui, b
 
 Les repères les plus fréquemment sollicités et les plus formateurs sont indiqués ci-dessous par ordre alphabétique.
 
-<table><tr><td>Absolu/relatif – Abstrait/concret – En acte/en puissance – Analyse/synthèse – Concept/image/métaphore – Contingent/nécessaire – Croire/savoir – Essentiel/accidentel – Exemple/preuve - Expliquer/comprendre – En fait/en droit – Formel/matériel – Genre/espèce/individu – Hypothèse/conséquence/conclusion – Idéal/réel – Identité/égalité/différence – Impossible/possible – Intuitif/discursif – Légal/légitime – Médiat/immédiat – Objectif/subjectif/intersubjectif – Obligation/contrainte – Origine/fondement – Persuader/convaincre – Principe/cause/fin – Public/privé – Ressemblance/analogie – Théorie/pratique – Transcendant/immanent – Universel/général/particulier/singulier – Vrai/probable/certain.</td></tr></table>
+<table style="width:90%; margin:auto;"><tr><td>Absolu/relatif – Abstrait/concret – En acte/en puissance – Analyse/synthèse – Concept/image/métaphore – Contingent/nécessaire – Croire/savoir – Essentiel/accidentel – Exemple/preuve - Expliquer/comprendre – En fait/en droit – Formel/matériel – Genre/espèce/individu – Hypothèse/conséquence/conclusion – Idéal/réel – Identité/égalité/différence – Impossible/possible – Intuitif/discursif – Légal/légitime – Médiat/immédiat – Objectif/subjectif/intersubjectif – Obligation/contrainte – Origine/fondement – Persuader/convaincre – Principe/cause/fin – Public/privé – Ressemblance/analogie – Théorie/pratique – Transcendant/immanent – Universel/général/particulier/singulier – Vrai/probable/certain.</td></tr></table>
 
 # Exercices et apprentissage de la réflexion philosophique
 
