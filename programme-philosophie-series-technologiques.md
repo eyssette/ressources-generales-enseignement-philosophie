@@ -60,7 +60,7 @@ Le programme propose à l’étude sept notions :
       <td style="text-align: center">La religion</td>
       <td style="text-align: center">La technique</td>
       <td style="text-align: center">La vérité</td>
-      <td style="border-right:none!important; border-bottom:none!important;"></
+      <td style="border-right:none!important; border-bottom:none!important;">
     </tr>
   </tbody>
 </table>
