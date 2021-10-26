@@ -87,6 +87,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Richard Brown](https://www.youtube.com/c/RichardBrownphilosophy/playlists)
 - [Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ/videos)
 - [The Dissenter](https://www.youtube.com/c/TheDissenterRL) : beaucoup d'interviews de philosophes contemporains
+- [Teachphilosophy](https://www.youtube.com/channel/UCFAQACIvhCecgfY66rprv8Q)
 
 # Mathématiques et sciences de la nature
 
