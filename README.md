@@ -38,7 +38,7 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 
 # Outils numériques
 
-- [Utiliser le numérique en philosophie](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html) : support de formation
+- [Utiliser le numérique en philosophie](https://eyssette.github.io/cours/form-num/c/) : site pour la formation et [diaporama](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html)
 - [Un compteur de mots](https://eyssette.github.io/combiendemots/) pour évaluer des temps de lecture, d'écriture, ou évaluer la complexité d'un texte.
 - [Page d'accueil personnalisée](https://eyssette.github.io/start-page/)
 
