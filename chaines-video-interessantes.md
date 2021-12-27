@@ -89,6 +89,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Carefree Wandering](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ/videos)
 - [The Dissenter](https://www.youtube.com/c/TheDissenterRL) : beaucoup d'interviews de philosophes contemporains
 - [Teachphilosophy](https://www.youtube.com/channel/UCFAQACIvhCecgfY66rprv8Q)
+- [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria/videos)
 
 # Mathématiques et sciences de la nature
 
