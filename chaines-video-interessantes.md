@@ -90,6 +90,10 @@ Une liste de chaînes vidéo intéressantes.
 - [The Dissenter](https://www.youtube.com/c/TheDissenterRL) : beaucoup d'interviews de philosophes contemporains
 - [Teachphilosophy](https://www.youtube.com/channel/UCFAQACIvhCecgfY66rprv8Q)
 - [Daniel Bonevac](https://www.youtube.com/user/PhiloofAlexandria/videos)
+- [Prof G (Professor Galindo)](https://www.youtube.com/c/ProfG/videos)
+- [Nathan Sasser](https://www.youtube.com/channel/UCoOTDvbVSO49Q-94GHftkDQ/videos)
+- [History of Philosophy](https://www.youtube.com/channel/UC5TYgo_1ED5UFplC-MWCXLw)
+- [Dr Timothy Scott VCE Philosophy](https://www.youtube.com/channel/UCBJ5beRZCR4Ff8XwZjwTedQ/videos)
 
 # Mathématiques et sciences de la nature
 
