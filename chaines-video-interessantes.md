@@ -94,6 +94,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Nathan Sasser](https://www.youtube.com/channel/UCoOTDvbVSO49Q-94GHftkDQ/videos)
 - [History of Philosophy](https://www.youtube.com/channel/UC5TYgo_1ED5UFplC-MWCXLw)
 - [Dr Timothy Scott VCE Philosophy](https://www.youtube.com/channel/UCBJ5beRZCR4Ff8XwZjwTedQ/videos)
+- [Matt McCormick, Professor](https://www.youtube.com/user/MattMcCormick1781/videos)
 
 # Mathématiques et sciences de la nature
 
