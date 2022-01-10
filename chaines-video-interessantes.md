@@ -95,6 +95,9 @@ Une liste de chaînes vidéo intéressantes.
 - [History of Philosophy](https://www.youtube.com/channel/UC5TYgo_1ED5UFplC-MWCXLw)
 - [Dr Timothy Scott VCE Philosophy](https://www.youtube.com/channel/UCBJ5beRZCR4Ff8XwZjwTedQ/videos)
 - [Matt McCormick, Professor](https://www.youtube.com/user/MattMcCormick1781/videos)
+- [John Phillips](https://www.youtube.com/c/JohnPhillipsPPE/videos)
+- [MASSOLIT](https://www.youtube.com/watch?v=RCrDof_w82k&list=PL3nHiydxyuLDFOdVZ4LiueN-hnwQg4qon)
+- [Epydemic2020](https://www.youtube.com/user/Epydemic2020/videos)
 
 # Mathématiques et sciences de la nature
 
@@ -115,6 +118,7 @@ Une liste de chaînes vidéo intéressantes.
 - [e-penser](https://www.youtube.com/user/epenser1)
 - [Numberphile](https://www.youtube.com/user/numberphile)
 - [Scilabus](https://www.youtube.com/c/scilabus/videos)
+- [Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
 
 # Sciences humaines
 - [Stupid Economics](https://www.youtube.com/channel/UCyJDHgrsUKuWLe05GvC2lng) : économie
