@@ -8,6 +8,10 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 - [Le programme officiel en séries technologiques](https://eyssette.github.io/ressources-generales-enseignement-philosophie/programme-philosophie-series-technologiques)
 
 
+# Méthodologie de la dissertation et de l'explication de texte
+
+- [Outil d'aide à l'écriture d'un devoir en philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/outil-aide-ecriture-philosophie.md)
+
 # Introduction à la philosophie
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
