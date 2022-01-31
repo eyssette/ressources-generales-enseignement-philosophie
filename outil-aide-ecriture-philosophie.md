@@ -6,6 +6,23 @@ Vous pouvez aussi imprimer la [version PDF au format "petit livre"](https://gith
 
 L'idée est d'imprimer en A4 (et de photocopier en A3 si on trouve la police trop petite), de faire un pliage et un découpage, afin d'obtenir à la fin un petit livre. Les explications pour la manip' sont ici : [http://petitslivres.free.fr/index_techniques.htm](http://petitslivres.free.fr/index_techniques.htm)
 
+<ul><li><a href="#définir-une-notion">Définir une notion</a></li>
+<li><a href="#annoncer-quon-va-définir-une-notion">Annoncer qu’on va définir une notion</a></li>
+<li><a href="#faire-une-distinction-conceptuelle">Faire une distinction conceptuelle</a></li>
+<ul><li><a href="#1-entre-2-notions">1/ entre 2 notions</a></li>
+<li><a href="#2-entre-2-sens-possibles-dune-notion">2/ entre 2 sens possibles d’une notion</a></li></ul>
+<li><a href="#introduire-une-hypothèse">Introduire une hypothèse</a></li>
+<li><a href="#expliquer-une-idée-ou-annoncer-une-explication">Expliquer une idée ou annoncer une explication</a></li>
+<li><a href="#justifier-une-idée-ou-annoncer-une-justification">Justifier une idée ou annoncer une justification</a></li>
+<li><a href="#exprimer-la-conséquence-ou-une-conclusion">Exprimer la conséquence ou une conclusion</a></li>
+<li><a href="#exprimer-une-opposition">Exprimer une opposition</a></li>
+<li><a href="#formuler-ou-annoncer-une-objection">Formuler ou annoncer une objection</a></li>
+<li><a href="#ajouter-une-idée">Ajouter une idée</a></li>
+<li><a href="#désigner-une-idée">Désigner une idée</a></li>
+<li><a href="#dégager-un-problème">Dégager un problème</a></li>
+<li><a href="#mobiliser-un-exemple">Mobiliser un exemple</a></li>
+<li><a href="#mobiliser-une-référence">Mobiliser une référence</a></li></ul>
+
 
 ## Définir une notion
 
