@@ -2,8 +2,8 @@
 
 Quelques formulations pratiques pour une dissertation ou une explication de texte en philosophie
 
-[Version complète](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/Outil-aide-ecriture-Philosophie-Petit-livre-v2.pdf) en PDF au format “petit livre” (à photocopier en A3)
-[Version simplifiée](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/Outil-aide-ecriture-Philosophie-Petit-livre.pdf) en PDF au format “petit livre” (A4 possible)
+- [Version complète](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/Outil-aide-ecriture-Philosophie-Petit-livre-v2.pdf) en PDF au format “petit livre” (à photocopier en A3)
+- [Version simplifiée](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/Outil-aide-ecriture-Philosophie-Petit-livre.pdf) en PDF au format “petit livre” (A4 possible)
 
 L'idée est d'imprimer en A4 (et de photocopier en A3 si on trouve la police trop petite), de faire un pliage et un découpage, afin d'obtenir à la fin un petit livre. Les explications pour la manip' sont ici : [http://petitslivres.free.fr/index_techniques.htm](http://petitslivres.free.fr/index_techniques.htm)
 
