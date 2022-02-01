@@ -12,6 +12,7 @@ Pour le petit livre, l'idée est d'imprimer en A4 (et de photocopier en A3 si on
 <li><a href="#faire-une-distinction-conceptuelle">Faire une distinction conceptuelle</a></li>
 <ul><li><a href="#1-entre-2-notions">1/ entre 2 notions</a></li>
 <li><a href="#2-entre-2-sens-possibles-dune-notion">2/ entre 2 sens possibles d’une notion</a></li></ul>
+<li><a href="#dégager-un-problème">Dégager un problème</a></li>
 <li><a href="#introduire-une-hypothèse">Introduire une hypothèse</a></li>
 <li><a href="#expliquer-une-idée-ou-annoncer-une-explication">Expliquer une idée ou annoncer une explication</a></li>
 <li><a href="#justifier-une-idée-ou-annoncer-une-justification">Justifier une idée ou annoncer une justification</a></li>
@@ -20,7 +21,6 @@ Pour le petit livre, l'idée est d'imprimer en A4 (et de photocopier en A3 si on
 <li><a href="#formuler-ou-annoncer-une-objection">Formuler ou annoncer une objection</a></li>
 <li><a href="#ajouter-une-idée">Ajouter une idée</a></li>
 <li><a href="#désigner-une-idée">Désigner une idée</a></li>
-<li><a href="#dégager-un-problème">Dégager un problème</a></li>
 <li><a href="#mobiliser-un-exemple">Mobiliser un exemple</a></li>
 <li><a href="#mobiliser-une-référence">Mobiliser une référence</a></li></ul>
 
