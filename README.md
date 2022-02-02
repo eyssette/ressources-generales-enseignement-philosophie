@@ -16,10 +16,11 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 
 - [Des conseils de lecture pour une initiation à la philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie)
 - [Des chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
+- [Les philosophes au programme en terminale : une visualisation](https://public.flourish.studio/visualisation/8516736/)
 - [Frise chronologique des philosophes au programme en terminale](https://eyssette.github.io/frise-philo/terminale.html)
 - [Frise chronologique plus générale](https://eyssette.github.io/frise-philo/), avec plus de philosophes
-- [Histoire de la philosophie : première approche](https://eyssette.github.io/timelines/philosophie-occidentale.html) : en cours de construction
 - [Répertoire des manuels en Philosophie et HLP](https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels)
+<!-- - [Histoire de la philosophie : première approche](https://eyssette.github.io/timelines/philosophie-occidentale.html) : en cours de construction -->
 
 # Textes de philosophie
 
