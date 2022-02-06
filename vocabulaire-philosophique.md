@@ -327,6 +327,7 @@
 - hylè
 - hylémorphisme
 - hypostase
+- hypostasier
 - hypothèse
 - hypothétique
 - icône
@@ -533,6 +534,7 @@
 - pathologique
 - penchant
 - pensée
+- penser
 - penseur
 - penseuse
 - perception
@@ -668,7 +670,6 @@
 - solutionnisme
 - sophia
 - sophisme
-- sophismes
 - sophiste
 - sophistique
 - sorite
@@ -686,6 +687,7 @@
 - sublime
 - subsomption
 - substance
+- substantiel
 - sujet
 - superstition
 - surhomme
@@ -749,13 +751,11 @@
 - utilité
 - utopie
 - valeur
-- valeurs
 - validité
 - vécu
 - véganisme
 - véracité
 - vérifacteur
-- vérifacteurs
 - vérification
 - vérisimilitude
 - vérité
