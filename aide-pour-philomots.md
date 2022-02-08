@@ -1,10 +1,14 @@
-# 2 lettres
+# Aide pour le jeu Philomots
+
+Voici la liste des mots que vous pouvez avoir à deviner dans le jeu [Philomots](https://eyssette.github.io/philomots)
+
+<!-- # 2 lettres
 - ça
 - je
 - tu
-- un
+- un -->
 
-# 3 lettres
+<!-- # 3 lettres
 - âme
 - art
 - ego
@@ -15,7 +19,7 @@
 - mal
 - moi
 - soi
-- vie
+- vie -->
 
 # 4 lettres
 - acte
@@ -853,7 +857,7 @@
 - théorétique
 - vérifacteur
 
-# Plus de 11 lettres
+<!-- # Plus de 11 lettres
 - accommodement
 - actualisation
 - anthropocentrique
@@ -1051,4 +1055,4 @@
 - vérisimilitude
 - vraisemblable
 - vraisemblance
-- weltanschauung
+- weltanschauung -->
