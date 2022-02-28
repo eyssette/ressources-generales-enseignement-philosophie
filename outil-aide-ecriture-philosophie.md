@@ -330,6 +330,8 @@ Pour le petit livre, l'idée est d'imprimer en A4 (et de photocopier en A3 si on
 * Mais ne peut-on pas remettre en question l'idée que … ?
 * Est-il vraiment possible de … ?
 * Faut-il vraiment accepter que … au motif que … ?
+* Pourtant, on peut se poser cette question : …
+* On pourrait cependant se demander si …
 
 
 ## Ajouter une idée
