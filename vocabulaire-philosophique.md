@@ -49,6 +49,7 @@
 - antispécisme
 - antithèse
 - apathie
+- apeiron
 - aperception
 - apodictique
 - apollinien
@@ -320,6 +321,7 @@
 - éthique
 - ethnocentrique
 - ethnocentrisme
+- ethos
 - étiologie
 - étonnement
 - être
@@ -602,6 +604,7 @@
 - mondialisation
 - monisme
 - monothéisme
+- moral
 - morale
 - moralisme
 - moralité
@@ -693,6 +696,7 @@
 - pastoral
 - paternalisme
 - pathologique
+- pathos
 - penchant
 - pensée
 - penser
