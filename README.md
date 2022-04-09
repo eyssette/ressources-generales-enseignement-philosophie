@@ -33,7 +33,8 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 - [Base de données des sujets du bac pour les dissertations](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html)
 
 # Pour un bac blanc
-- [Un modèle Latex pour un sujet de bac blanc](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/modele-bac-blanc.tex) : à utiliser avec [overleaf](https://www.overleaf.com/) par exemple ([rendu en PDF](https://latexonline.cc/compile?url=https%3A%2F%2Fraw.githubusercontent.com%2Feyssette%2Fressources-generales-enseignement-philosophie%2Fmaster%2Fmodele-bac-blanc.tex&trackId=1593107675825))
+- [Un modèle Latex pour un sujet de bac blanc en séries générales](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/modele-bac-blanc.tex) : à utiliser avec [overleaf](https://www.overleaf.com/read/jsyvznxsxghn) par exemple ([rendu en PDF](https://latexonline.cc/compile?url=https%3A%2F%2Fraw.githubusercontent.com%2Feyssette%2Fressources-generales-enseignement-philosophie%2Fmaster%2Fmodele-bac-blanc.tex&trackId=1593107675825))
+<!-- - [Un modèle Latex pour un sujet de bac blanc en séries technologiques](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/modele-bac-blanc.tex) : à utiliser avec [overleaf](https://www.overleaf.com/read/jsyvznxsxghn) par exemple ([rendu en PDF](https://latexonline.cc/compile?url=https%3A%2F%2Fraw.githubusercontent.com%2Feyssette%2Fressources-generales-enseignement-philosophie%2Fmaster%2Fmodele-bac-blanc.tex&trackId=1593107675825)) -->
 
 # Correction des copies
 - [Un outil pour annoter en ligne une copie : Mark(down)Papers](https://eyssette.github.io/mark-down-papers/)
