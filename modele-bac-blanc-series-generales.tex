@@ -19,13 +19,14 @@
 % Pour forcer un passage à la ligne : \linebreak
 \setcounter{texteEnGrand}{1} % Mettre 0 (texte en petit) ou 1 (texte en grand)
 \newcommand{\titre}{Baccalauréat blanc 2020-2021}
-\newcommand{\nomEnseignant}{M. Eyssette}
+\newcommand{\nomProf}{M. Eyssette}
 \newcommand{\classes}{TG5, TG7, TG8}
 \newcommand{\sujetA}{Puis-je savoir qui je suis ?}
 \newcommand{\sujetB}{L'art est-il une expérience de la liberté ?}
 \newcommand{\sujetC}{« Il n’est pas dans la nature de la majorité des hommes d’être heureux en prison et les passions qui nous enferment en nous-même sont la pire des prisons. […] L’homme heureux est celui qui vit objectivement, qui a des affections libres et des intérêts larges, celui qui retire son bonheur de ces intérêts et affections et du fait que ceux-ci, à leur tour, le font un objet d’intérêt et d’affection pour beaucoup d’autres. […]\\
 Grâce à ces intérêts, un homme vient à se sentir comme une partie du courant de la vie et non plus comme une entité isolée et dure, telle que la balle de billard qui ne peut avoir d’autre relation avec des entités semblables que celle d’un choc. Tout manque de bonheur résulte d’une désintégration dans le moi […]. L’homme heureux est celui qui ne souffre pas d’un de ces manques de synthèse, l’homme heureux est celui dont la personnalité n’est pas divisée contre elle-même ni en conflit avec le monde. Un tel homme se sent un citoyen de l’univers, il jouit en toute liberté du spectacle et des joies que le monde lui offre, il n’est pas troublé par la pensée de la mort, parce qu’il ne se sent pas réellement séparé de ceux qui viennent après lui. C’est dans cette union profonde et instinctive avec le courant de la vie que l’on trouvera les joies les plus intenses. »}
-\newcommand{\auteur}{Russell}
+\newcommand{\prenomPhilosophe}{Bertrand}
+\newcommand{\nomPhilosophe}{Russell}
 \newcommand{\titreLivre}{La conquête du bonheur}
 \newcommand{\precisionsReference}{}
 \newcommand{\dateReference}{1930}
@@ -34,7 +35,7 @@ Grâce à ces intérêts, un homme vient à se sentir comme une partie du couran
 \title{
 \ifnum\value{texteEnGrand}>0 {\huge{\titre}} \else {\titre} \fi
 \\[0.5em]
-\ifnum\value{texteEnGrand}>0 {\large{\classes : élèves de \nomEnseignant\\}} \else {\normalsize{\classes : élèves de \nomEnseignant\\}}\fi
+\ifnum\value{texteEnGrand}>0 {\large{\classes : élèves de \nomProf\\}} \else {\normalsize{\classes : élèves de \nomProf\\}}\fi
 \date{}}
 
 \begin{document}
@@ -70,7 +71,7 @@ Expliquer le texte suivant :
 \end{linenumbers}
 
 \begin{flushright}
-\textsc{\auteur}, \textit{\titreLivre}\precisionsReference~(\dateReference)
+\prenomPhilosophe~\textsc{\nomPhilosophe}, \textit{\titreLivre}\precisionsReference~(\dateReference)
 \end{flushright}}} \else {\normalsize{
 \begin{center}
 \textbf{Le candidat traitera, au choix, l’un des trois sujets suivants :}
@@ -99,7 +100,7 @@ Expliquer le texte suivant :
 \end{linenumbers}
 
 \begin{flushright}
-\textsc{\auteur}, \textit{\titreLivre}\precisionsReference~(\dateReference)
+\prenomPhilosophe~\textsc{\nomPhilosophe}, \textit{\titreLivre}\precisionsReference~(\dateReference)
 \end{flushright}
 }}\fi
 
