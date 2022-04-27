@@ -112,7 +112,6 @@ Une liste de chaînes vidéo intéressantes.
 - [Primum Non Nocere](https://www.youtube.com/c/PrimumNonNocereVideo/videos)
 - [Science de comptoir](https://www.youtube.com/c/Sciencedecomptoir/videos)
 - [Chat Sceptique](https://www.youtube.com/c/chatsceptique/videos)
-- [AstronoGeek](https://www.youtube.com/c/AstronoGeek/videos)
 - [L'esprit Sorcier](https://www.youtube.com/c/LEspritSorcierOfficiel/videos)
 - [Jamy](https://www.youtube.com/c/Jamy/videos)
 - [e-penser](https://www.youtube.com/user/epenser1)
@@ -137,11 +136,6 @@ Une liste de chaînes vidéo intéressantes.
 
 # Esprit critique, zététique
 - [Hygiène mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale/videos)
-- [La Tronche en biais](https://www.youtube.com/c/TroncheEnBiais-Zetetique/videos)
-- [Mr Sam](https://www.youtube.com/c/SamuelBuisseretMrSam/videos)
-- [Defakator](https://www.youtube.com/c/OfficielDEFAKATOR/videos)
-- [Un Monde riant](https://www.youtube.com/c/UnMondeRiant/videos)
-- [Chaîne de Clément FREZE, mentaliste](https://www.youtube.com/c/Cl%C3%A9mentFREZE/videos) (et [quelques vidéos sur Peertube](https://peertube.fr/video-channels/mentaliste@skeptikon.fr/videos))
 - [Podcast "Scepticisme scientifique", fondé par J.M. Abrassart](https://www.scepticisme-scientifique.com/)
 - [Meta de choc](https://www.youtube.com/channel/UCeYerYR680Q56i4D1HJcF8Q)
 - [Astroscept](https://youtube.com/c/Astroscepticisme)
