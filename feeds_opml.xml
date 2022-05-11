@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<opml>
+<opml version="1.0">
   <head>
-    <title>eyssette subscriptions in CommaFeed</title>
+    <title>Cédric Eyssette : RSS Feeds</title>
   </head>
   <body>
     <outline text="English" title="English">
+      <outline text="Good Thoughts (Richard Chappell &lt; Philosophy, et cetera)" type="rss" title="Good Thoughts (Richard Chappell &lt; Philosophy, et cetera)" xmlUrl="https://rychappell.substack.com/feed" htmlUrl="https://rychappell.substack.com" />
+      <outline text="Stories by Celine Leboeuf, Ph.D. on Medium" type="rss" title="Stories by Celine Leboeuf, Ph.D. on Medium" xmlUrl="https://medium.com/feed/@celine-leboeuf" htmlUrl="https://medium.com/@celine-leboeuf?source=rss-a038e891ed8------2" />
+      <outline text="Fake Nous" type="rss" title="Fake Nous" xmlUrl="https://fakenous.net/?feed=rss2" htmlUrl="https://fakenous.net" />
+      <outline text="Yet another blog on consciousness" type="rss" title="Yet another blog on consciousness" xmlUrl="https://matthiasmichel.blogspot.com/feeds/posts/default" htmlUrl="https://matthiasmichel.blogspot.com/" />
       <outline text="A Philosopher's Blog" type="rss" title="A Philosopher's Blog" xmlUrl="http://aphilosopher.drmcl.com/feed/" htmlUrl="http://aphilosopher.drmcl.com" />
       <outline text="Astral Codex Ten" type="rss" title="Astral Codex Ten" xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com" />
       <outline text="Alexander Pruss's Blog" type="rss" title="Alexander Pruss's Blog" xmlUrl="http://alexanderpruss.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://alexanderpruss.blogspot.com/" />
@@ -13,10 +17,10 @@
       <outline text="Philosophy, et cetera" type="rss" title="Philosophy, et cetera" xmlUrl="http://www.philosophyetc.net/feeds/posts/default" htmlUrl="http://www.philosophyetc.net/" />
       <outline text="Philosophical Disquisitions" type="rss" title="Philosophical Disquisitions" xmlUrl="http://philosophicaldisquisitions.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://philosophicaldisquisitions.blogspot.com/" />
       <outline text="Practical Ethics" type="rss" title="Practical Ethics" xmlUrl="http://blog.practicalethics.ox.ac.uk/feed/" htmlUrl="http://blog.practicalethics.ox.ac.uk" />
-      <outline text="The Brains Blog" type="rss" title="The Brains Blog" xmlUrl="http://philosophyofbrains.com/feed" htmlUrl="https://philosophyofbrains.com" />
+      <outline text="The Brains Blog" type="rss" title="The Brains Blog" xmlUrl="https://philosophyofbrains.com/feed" htmlUrl="https://philosophyofbrains.com" />
       <outline text="ex-apologist" type="rss" title="ex-apologist" xmlUrl="http://exapologist.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://exapologist.blogspot.com/" />
       <outline text="Nick Byrd" type="rss" title="Nick Byrd" xmlUrl="https://byrdnick.com/feed" htmlUrl="https://byrdnick.com" />
-      <outline text="Mind Hacks" type="rss" title="Mind Hacks" xmlUrl="http://mindhacks.com/feed/" htmlUrl="https://mindhacks.com" />
+      <outline text="Mind Hacks" type="rss" title="Mind Hacks" xmlUrl="https://mindhacks.com/feed/" htmlUrl="https://mindhacks.com" />
       <outline text="The Splintered Mind" type="rss" title="The Splintered Mind" xmlUrl="http://feeds.feedburner.com/blogspot/FHhv" htmlUrl="http://schwitzsplinters.blogspot.com/" />
       <outline text="Daily Nous" type="rss" title="Daily Nous" xmlUrl="http://dailynous.com/feed/" htmlUrl="https://dailynous.com" />
       <outline text="PEA Soup" type="rss" title="PEA Soup" xmlUrl="https://peasoup.deptcpanel.princeton.edu/feed/" htmlUrl="https://peasoup.deptcpanel.princeton.edu" />
@@ -54,7 +58,7 @@
       <outline text="language goes on holiday" type="rss" title="language goes on holiday" xmlUrl="https://www.blogger.com/feeds/6454161596094447448/posts/default" htmlUrl="http://languagegoesonholiday.blogspot.com/" />
       <outline text="synthetic zerØ" type="rss" title="synthetic zerØ" xmlUrl="http://syntheticzero.net/feed/" htmlUrl="https://syntheticzero.net" />
       <outline text="In the Space of Reasons" type="rss" title="In the Space of Reasons" xmlUrl="http://inthespaceofreasons.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://inthespaceofreasons.blogspot.com/" />
-      <outline text="Hans Sluga Blog" type="rss" title="Hans Sluga Blog" xmlUrl="http://www.truthandpower.com/blog/feed/" htmlUrl="http://www.truthandpower.com/blog" />
+      <outline text="Hans Sluga Blog" type="rss" title="Hans Sluga Blog" xmlUrl="http://www.truthandpower.com/blog/feed/" htmlUrl="https://www.truthandpower.com/blog" />
       <outline text="Serious Philosophy" type="rss" title="Serious Philosophy" xmlUrl="http://ludwig.squarespace.com/volume-15/rss.xml" htmlUrl="http://ludwig.squarespace.com/volume-15/" />
       <outline text="The Virtue Blog" type="rss" title="The Virtue Blog" xmlUrl="https://thevirtueblog.com/feed/" htmlUrl="https://thevirtueblog.com" />
       <outline text="virtue insight" type="rss" title="virtue insight" xmlUrl="https://virtueinsight.wordpress.com/feed/" htmlUrl="https://virtueinsight.wordpress.com" />
@@ -99,18 +103,22 @@
       <outline text="The New Experimental Philosophy Blog" type="rss" title="The New Experimental Philosophy Blog" xmlUrl="https://xphiblog.com/feed/" htmlUrl="https://xphiblog.com" />
       <outline text="OUPblog" type="rss" title="OUPblog" xmlUrl="http://feeds.feedblitz.com/oupblog" htmlUrl="https://blog.oup.com" />
       <outline text="AskPhilosophers.org" type="rss" title="AskPhilosophers.org" xmlUrl="http://askphilosophers.org/rss.xml" htmlUrl="http://askphilosophers.org" />
-      <outline text="Philosophy News" type="rss" title="Philosophy News" xmlUrl="http://feeds.feedburner.com/philosophynews/jcFI" htmlUrl="http://www.philosophynews.com/" />
+      <outline text="Philosophy News" type="rss" title="Philosophy News" xmlUrl="http://feeds.feedburner.com/philosophynews/jcFI" htmlUrl="https://philosophynews.com" />
       <outline text="Philosophy Talk" type="rss" title="Philosophy Talk" xmlUrl="https://www.philosophytalk.org/rss.xml" htmlUrl="https://www.philosophytalk.org" />
       <outline text="Blog of the APA" type="rss" title="Blog of the APA" xmlUrl="http://blog.apaonline.org/feed/" htmlUrl="https://blog.apaonline.org" />
     </outline>
     <outline text="Français" title="Français">
-      <outline text="Les philosophes antiques à notre secours." type="rss" title="Les philosophes antiques à notre secours." xmlUrl="http://www.philalethe.net/feeds/posts/default?alt=rss" htmlUrl="http://www.philalethe.net/" />
+      <outline text="Dogma delenda est" type="rss" title="Dogma delenda est" xmlUrl="https://dogmadelendaest.wordpress.com/feed/" htmlUrl="https://dogmadelendaest.wordpress.com" />
+      <outline text="Philosophie des sciences" type="rss" title="Philosophie des sciences" xmlUrl="https://philosophiedessciences.blogspot.com/feeds/posts/default" htmlUrl="https://philosophiedessciences.blogspot.com/" />
+      <outline text="Questions animalistes" type="rss" title="Questions animalistes" xmlUrl="https://questionsanimalistes.com/feed/" htmlUrl="https://questionsanimalistes.com" />
+      <outline text="Écopraxis" type="rss" title="Écopraxis" xmlUrl="https://ecopraxisphilo.fr/feed/" htmlUrl="https://ecopraxisphilo.fr" />
+      <outline text="Les philosophes antiques à notre secours." type="rss" title="Les philosophes antiques à notre secours." xmlUrl="http://www.philalethe.net/feeds/posts/default?alt=rss" htmlUrl="https://www.philalethe.net/" />
       <outline text="Un grain de sable" type="rss" title="Un grain de sable" xmlUrl="http://ungraindesable.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://ungraindesable.blogspot.com/" />
       <outline text="Harrystaut" type="rss" title="Harrystaut" xmlUrl="http://www.harrystaut.fr/feed/" htmlUrl="http://www.harrystaut.fr" />
       <outline text="Guillaume Durieux" type="rss" title="Guillaume Durieux" xmlUrl="https://guillaumedurieux.wordpress.com/feed/" htmlUrl="https://guillaumedurieux.wordpress.com" />
       <outline text="Ce n'est qu'une théorie" type="rss" title="Ce n'est qu'une théorie" xmlUrl="https://cenestquunetheorie.wordpress.com/feed/" htmlUrl="https://cenestquunetheorie.wordpress.com" />
       <outline text="Un Philosophe" type="rss" title="Un Philosophe" xmlUrl="https://unphilosophe.com/feed/" htmlUrl="https://unphilosophe.com" />
-      <outline text="Implications philosophiques" type="rss" title="Implications philosophiques" xmlUrl="http://www.implications-philosophiques.org/feed/" htmlUrl="http://www.implications-philosophiques.org" />
+      <outline text="Implications philosophiques" type="rss" title="Implications philosophiques" xmlUrl="http://www.implications-philosophiques.org/feed/" htmlUrl="https://www.implications-philosophiques.org" />
       <outline text="Septembre" type="rss" title="Septembre" xmlUrl="https://septembre.space/new-blog" />
       <outline text="Michel Terestchenko" type="rss" title="Michel Terestchenko" xmlUrl="http://feeds.feedburner.com/MichelTerestchenko" htmlUrl="http://michel-terestchenko.blogspot.com/" />
       <outline text="Simone et les philosophes" type="rss" title="Simone et les philosophes" xmlUrl="http://fetchrss.com/rss/6084a88108e0e315fa745ab26084a80aca9a2153fc73f922.xml" />
