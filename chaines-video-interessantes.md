@@ -98,6 +98,9 @@ Une liste de chaînes vidéo intéressantes.
 - [John Phillips](https://www.youtube.com/c/JohnPhillipsPPE/videos)
 - [MASSOLIT](https://www.youtube.com/watch?v=RCrDof_w82k&list=PL3nHiydxyuLDFOdVZ4LiueN-hnwQg4qon)
 - [Epydemic2020](https://www.youtube.com/user/Epydemic2020/videos)
+- [Michael Huemer](https://www.youtube.com/user/owl235/videos)
+- [Deliberation Under Ideal Conditions](https://www.youtube.com/channel/UCgMYs1CgxkXy2KStHTvA9UA)
+- [Brain in a vat](https://www.youtube.com/c/BraininaVat)
 
 # Mathématiques et sciences de la nature
 
