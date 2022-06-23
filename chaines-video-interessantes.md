@@ -105,7 +105,6 @@ Une liste de chaînes vidéo intéressantes.
 # Mathématiques et sciences de la nature
 
 - [ScienceEtonnante](https://www.youtube.com/channel/UCaNlbnghtwlsGF-KzAFThqA)
-- [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q)
 - [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A)
 - [Mickaël Launay](https://www.youtube.com/channel/UC4PasDd25MXqlXBogBw9CAg)
 - [Passe-Science](https://www.youtube.com/c/PasseScience/playlists)
