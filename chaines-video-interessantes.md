@@ -47,7 +47,6 @@ Une liste de chaînes vidéo intéressantes.
 - [Coursitout](https://www.youtube.com/channel/UCj7jEuQd8QWwcsNlO5T9P_A?fbclid=IwAR0S298txlAi5CITwCfJgVTA5ntaMjC2S5sroS9sYesAaiKldf9fhN5FfiE)
 - [Antiseche](https://www.youtube.com/watch?v=JXmDt18dtFM&list=RDCMUCeOp9CWBaW2tVIBAzCobzow&start_radio=1&t=4)
 - [Le coup de phil](https://www.youtube.com/user/LeCoupdePhil)
-- [Le Précepteur](https://www.youtube.com/channel/UCvRgiAmogg7a_BgQ_Ftm6fA)
 - [Le patient zéro](https://www.youtube.com/channel/UCUCKgquqc8jUbNUwEzshlUA)
 - [COurs VIDéo 19](https://www.youtube.com/channel/UC51aOH9uMffKa7cCd49_LlA)
 - [Chaîne de Jean ZAGANIARIS](https://www.youtube.com/channel/UCRKdGFzKpdmnR5Hq4z3Fu1A/videos)
