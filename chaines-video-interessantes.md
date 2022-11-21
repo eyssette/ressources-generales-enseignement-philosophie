@@ -58,6 +58,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Geekosophie Magazine](https://www.youtube.com/channel/UCwTYhjEMHWlV86ASP5XprWQ)
 - [Philosopher au présent](https://www.youtube.com/channel/UCzTZ-8_rNTIE3B9HxNxepNg)
 - [Alain Bajomée](https://www.youtube.com/channel/UC8H0CzrKdPEh0PbLK9IxMKg)
+- [Lettres, langage, philosophie - Collège de France](https://www.youtube.com/@Lettres-Langage-Arts-Philo-CdF/)
 
 # Autres chaînes en anglais
 
