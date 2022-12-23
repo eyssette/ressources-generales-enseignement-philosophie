@@ -59,6 +59,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Philosopher au présent](https://www.youtube.com/channel/UCzTZ-8_rNTIE3B9HxNxepNg)
 - [Alain Bajomée](https://www.youtube.com/channel/UC8H0CzrKdPEh0PbLK9IxMKg)
 - [Lettres, langage, philosophie - Collège de France](https://www.youtube.com/@Lettres-Langage-Arts-Philo-CdF/)
+- [Matériaux visuels des Archives Henri-Poincaré liés à l'enseignement](https://videos.ahp-numerique.fr/c/cours/videos) (dont les cours d'Anna C. Zielinska de philosophie politique)
 
 # Autres chaînes en anglais
 
