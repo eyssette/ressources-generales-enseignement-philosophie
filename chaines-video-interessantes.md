@@ -101,6 +101,8 @@ Une liste de chaînes vidéo intéressantes.
 - [Brain in a vat](https://www.youtube.com/c/BraininaVat)
 - [Nathan Nobis](https://www.youtube.com/c/NathanNobis101/videos)
 - [Philosophy Overdose](https://www.youtube.com/@PhilosophyOverdose2)
+- [Kenny Easwaran](https://www.youtube.com/@keaswaran0)
+- [New Work in Philosophy](https://www.youtube.com/channel/UCin6KEiYyQ9RljB6SvzkMaQ)
 
 # Mathématiques et sciences de la nature
 
