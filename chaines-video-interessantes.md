@@ -6,7 +6,7 @@ Une liste de chaînes vidéo intéressantes.
 2. [META](https://www.youtube.com/channel/UCUOgJaic4p3kwuN7LDJ5ukA)
 3. [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
 4. [La philo des écrans](https://www.youtube.com/channel/UC5oYInmzMnMbsuiBdIEtytg)
-5. [François Jourde : Bac Philo](https://www.youtube.com/watch?v=GhP9DO5AH3I&list=RDCMUCrPDGdPj4pzAGg1uA4n2swA&start_radio=1)
+5. [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw) : plutôt philosophie politique
 
 # Le top 5 en anglais
 
@@ -18,14 +18,11 @@ Une liste de chaînes vidéo intéressantes.
 
 # Autres chaînes en français
 
+- [François Jourde : Bac Philo](https://www.youtube.com/watch?v=GhP9DO5AH3I&list=RDCMUCrPDGdPj4pzAGg1uA4n2swA&start_radio=1)
 - [Editions M-Editer](https://www.youtube.com/c/EditionsMEditer/videos)
 - [Hopliteia](https://www.youtube.com/channel/UCBh4vdfPAtDwkTvVga1vvJw/videos) : philosophie antique
-- Cinéma et philosophie : Studio Philo
-  - [1er lien](https://www.youtube.com/watch?v=GnCTsqiX9Yk&list=PL9A0C7365FFF68F55)
-  - [2e lien](https://www.youtube.com/playlist?list=PLehsPOfYh-lDNNxaZ9ThQ-lBGYNMV9qTC)
 - [Etotsira](https://www.youtube.com/channel/UC6y90KAgpC-q59JeJUgZhFA)
 - [Kant à moi](https://www.youtube.com/channel/UC9osx5rC2K8sH9AuepJW9CQ)
-- [Philoxime](https://www.youtube.com/channel/UCdKTlsmvczkdvGjiLinQwmw) : plutôt philosophie politique
 - [Filosofix](https://www.youtube.com/playlist?list=PL1NXgjXDUNJmrBJXa30a-lsNVfSBdxPE4&app=desktop) ; existe également [en anglais](https://www.youtube.com/watch?v=tSUz6Rj5oo4&list=PL1NXgjXDUNJk_51d5AJzCj0Rl7avL5E9W)
 - [micro-philo](https://www.youtube.com/channel/UC4szzzU_Xpb6zeFussmIqWw)
 - [Homo Fabulus](https://www.youtube.com/channel/UC-Dmq5q3-FIBknv1TVIR__Q) : philosophie morale et philosophie de la biologie
@@ -171,3 +168,16 @@ Une liste de chaînes vidéo intéressantes.
 - [Les Brutes](https://lesbrutes.telequebec.tv/)
 - [La poudre](https://nouvellesecoutes.fr/podcast/la-poudre/)
 - [Kiffe ta race](https://www.youtube.com/channel/UCPVS8efBdhXGGYs4JW2IJcQ)
+
+# Cinéma
+
+- [Cinéma et politique](https://www.youtube.com/@Cinemaetpolitique)
+- [Une invention sans avenir](https://shows.acast.com/une-invention-sans-avenir)
+- [Kaleidospop](https://www.youtube.com/@kaleidospop.c8616)
+- [Vidéodrome](https://www.youtube.com/channel/UCVcECecc_kaV9PeZVfm6TiA)
+- [La philo des écrans](https://www.youtube.com/channel/UC5oYInmzMnMbsuiBdIEtytg)
+- [Trucs de Philo : Philosophie et cinéma](https://www.youtube.com/watch?v=qxXzWKW1a1Y&list=PLrsN3BrYAkxm2G8nQnbstxez-K5xz4a1_)
+- Cinéma et philosophie : Studio Philo
+  - [1er lien](https://www.youtube.com/watch?v=GnCTsqiX9Yk&list=PL9A0C7365FFF68F55)
+  - [2e lien](https://www.youtube.com/playlist?list=PLehsPOfYh-lDNNxaZ9ThQ-lBGYNMV9qTC)
+- [Cinéma et philosophie](https://www.youtube.com/@cinemaetphilosophie7303/videos)
