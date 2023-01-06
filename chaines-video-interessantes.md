@@ -103,6 +103,7 @@ Une liste de chaînes vidéo intéressantes.
 - [Philosophy Overdose](https://www.youtube.com/@PhilosophyOverdose2)
 - [Kenny Easwaran](https://www.youtube.com/@keaswaran0)
 - [New Work in Philosophy](https://www.youtube.com/channel/UCin6KEiYyQ9RljB6SvzkMaQ)
+- [Just Wondering](https://www.youtube.com/@justwondering)
 
 # Mathématiques et sciences de la nature
 
