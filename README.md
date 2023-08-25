@@ -45,6 +45,9 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 # Outils numériques
 
 - [Utiliser le numérique en philosophie](https://eyssette.github.io/cours/form-num/c/) : site pour la formation et [diaporama](https://eyssette.github.io/marp-slides/slides/Formation_num%C3%A9rique.html)
+- [Outil de carte mentale](https://eyssette.github.io/myMarkmap/)
+- [Logiciel de quiz en ligne](https://text2quiz.vercel.app/)
+- [Outil pour imprimer du texte sur une page A4](https://eyssette.forge.aeif.fr/a4/convert.html) ([explications du fonctionnement](https://eyssette.github.io/a4/))
 - [Application en ligne pour créer des schémas d'arguments](https://eyssette.github.io/argument-map/)
 - [Un compteur de mots](https://eyssette.github.io/combiendemots/) pour évaluer des temps de lecture, d'écriture, ou évaluer la complexité d'un texte.
 - [Page d'accueil personnalisée](https://eyssette.github.io/start-page/)
