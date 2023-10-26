@@ -10,6 +10,7 @@ Voici quelques ressources que je partage : n'hésitez pas à [me contacter](http
 
 # Méthodologie de la dissertation et de l'explication de texte
 
+- [Chatbot pour poser ses questions à propos de la méthode de la dissertation en philosophie](https://eyssette.github.io/chatMD/#https://eyssette.forge.aeif.fr/chatbot/dissertation-philosophie.md)
 - [Outil d'aide à l'écriture d'un devoir en philosophie](https://eyssette.github.io/ressources-generales-enseignement-philosophie/outil-aide-ecriture-philosophie)
 
 # Introduction à la philosophie
