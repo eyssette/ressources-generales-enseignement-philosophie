@@ -1,0 +1,16 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "convert to HTML with Pandoc",
+			"type": "shell",
+			"command": "pandoc -f markdown+mark+lists_without_preceding_blankline+emoji -t html -s README.md -o index.html --lua-filter=pandoc/fr-nbsp.lua --lua-filter=pandoc/set-title-from-h1.lua --lua-filter=pandoc/underline.lua -c pandoc/style.css --template=pandoc/template.html --mathjax --embed-resources --standalone",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
